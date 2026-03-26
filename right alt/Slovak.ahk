@@ -1,0 +1,49 @@
+﻿#Hotstring *?
+
+>!+a::Send, {U+00C1}
+>!a::Send, {U+00E1}
+>!+q::Send, {U+00C4}
+>!q::Send, {U+00E4}
+>!+c::Send, {U+010C}
+>!c::Send, {U+010D}
+>!+d::Send {U+010E}
+>!d::Send {U+010F}
+>!+e::Send {U+00C9}
+>!e::Send {U+00E9}
+>!+i::Send {U+00CD}
+>!i::Send {U+00ED}
+>!+l::Send {U+0139}
+>!l::Send {U+013A}
+>!+k::Send {U+013D}
+>!k::Send {U+013E}
+>!+n::Send {U+0147}
+>!n::Send {U+0148}
+>!+o::Send {U+00D3}
+>!o::Send {U+00F3}
+>!+p::Send {U+00D4}
+>!p::Send {U+00F4}
+>!+r::Send {U+0154}
+>!r::Send {U+0155}
+>!+s::Send {U+0160}
+>!s::Send {U+0161}
+>!+t::Send {U+0164}
+>!t::Send {U+0165}
+>!+u::Send {U+00DA}
+>!u::Send {U+00FA}
+>!+y::Send {U+00DD}
+>!y::Send {U+00FD}
+>!+z::Send {U+017D}
+>!z::Send {U+017E}
+
+>!5::Send, {U+20AC}
+
+::'::’
+>!+vkDE::Send, {U+0027}
+>!;::Send, {U+201E}
+>!'::Send, {U+201C}
+>!+;::Send, {U+201A}
+>!+'::Send, {U+2018}
+>!,::Send, {U+00BB}
+>!.::Send, {U+00AB}
+>!+,::Send, {U+203A}
+>!+.::Send, {U+2039}

@@ -1,0 +1,26 @@
+﻿#Hotstring *?
+
+>!+c::Send, {U+010C}
+>!c::Send, {U+010D}
+>!+d::Send, {U+010E}
+>!d::Send, {U+010F}
+>!+e::Send, {U+0190}
+>!e::Send, {U+025B}
+>!+g::Send, {U+01E6}
+>!g::Send, {U+01E7}
+>!+y::Send, {U+0194}
+>!y::Send, {U+0263}
+>!+h::Send, {U+1E24}
+>!h::Send, {U+1E25}
+>!o::Send, {U+1D52}
+>!+r::Send, {U+1E5A}
+>!r::Send, {U+1E5B}
+>!+f::Send, {U+0158}
+>!f::Send, {U+0159}
+>!+s::Send, {U+1E62}
+>!s::Send, {U+1E63}
+>!+t::Send, {U+1E6C}
+>!t::Send, {U+1E6D}
+>!w::Send, {U+02B7}
+>!+z::Send, {U+1E92}
+>!z::Send, {U+1E93}
