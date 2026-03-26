@@ -4295,6 +4295,7 @@
 ::niku1::憎
 
 ::nishi1::西
+::niga1::苦
 ::nise1::偽
 ::nishiki1::錦
 
