@@ -1,6 +1,6 @@
 ﻿#Hotstring *?C
 #Requires Autohotkey 1.1
-
+<^+0::Suspend -1
 >!'::Send, {U+05BC}
 >![::Send, {U+05C2}
 >!]::Send, {U+05C1}

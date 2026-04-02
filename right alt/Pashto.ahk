@@ -1,6 +1,6 @@
 ﻿#Hotstring *?C
 #Requires Autohotkey 1.1
-
+<^+0::Suspend -1
 ::=d::ډ
 ::=r::ړ
 ::=z::ږ

@@ -1,6 +1,6 @@
-#Hotstring O
+﻿#Hotstring O
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 :*?:lth\::ㄾ
 :*?:lph\::ㄿ
 :*?:yae\::ㅒ
