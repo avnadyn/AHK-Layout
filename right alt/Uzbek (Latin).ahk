@@ -1,5 +1,5 @@
 ﻿#Hotstring *?
-
+<^+0::Suspend -1
 ::'::ʻ
 >!+vkDE::Send, {U+0027}
 >!;::Send, {U+201C}

@@ -1,5 +1,5 @@
 ﻿#Hotstring *?
-
+<^+0::Suspend -1
 >!+a::Send, {U+0100}
 >!a::Send, {U+0101}
 >!+e::Send, {U+0112}

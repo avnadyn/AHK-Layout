@@ -1,6 +1,6 @@
 ﻿#Hotstring *?C
 #Requires Autohotkey 1.1
-
+<^+0::Suspend -1
 ::=t::ٹ
 ::+t::ٿ
 ::=d::ڈ
