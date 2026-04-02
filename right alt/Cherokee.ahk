@@ -1,6 +1,6 @@
 ﻿#Hotstring O
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 ::a::Ꭰ
 ::e::Ꭱ
 ::i::Ꭲ

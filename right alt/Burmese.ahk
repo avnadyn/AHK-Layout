@@ -1,6 +1,6 @@
 ﻿#Hotstring CO
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 >!+a::Send, {U+102B}
 >!a::Send, {U+102C}
 >!i::Send, {U+102D}

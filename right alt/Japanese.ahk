@@ -1,6 +1,6 @@
-#Hotstring CO
+﻿#Hotstring CO
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 >!+a::Send, {U+0100}
 >!a::Send, {U+0101}
 >!+e::Send, {U+0112}
@@ -4980,6 +4980,8 @@
 ::U0::烏
 ::U01::優
 
+::E0::廻
+
 ::ETSU0::曰
 ::ETSU01::粤
 
@@ -4996,6 +4998,7 @@
 ::RAI0::莱
 
 ::RIN0::琳
+::RIN01::霖
 
 ::RYUU0::龍
 
@@ -5027,6 +5030,8 @@
 ::chi0::風
 
 ::nagisa0::渚
+
+::no0::之
 
 ::hie0::稗
 

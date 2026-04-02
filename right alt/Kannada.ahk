@@ -1,6 +1,6 @@
 ﻿#Hotstring CO
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 ::a::ಅ
 ::aa::ಆ
 ::i::ಇ
