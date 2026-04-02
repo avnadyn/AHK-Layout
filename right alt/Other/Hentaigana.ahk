@@ -1,6 +1,6 @@
 ﻿#Hotstring CO
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 ::YI::𛄠
 ::yi::𛀆
 ::YE::𛀀

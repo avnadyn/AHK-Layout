@@ -1,5 +1,5 @@
 ﻿#Hotstring *?
-
+<^+0::Suspend -1
 ::a::𐤀
 ::b::𐤁
 ::g::𐤂
