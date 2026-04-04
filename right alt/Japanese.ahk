@@ -3493,7 +3493,7 @@
 ::kashima1::姦
 ::kashiko1::畏
 ::kashira1::頁
-::kasa1::傘
+::kasa2::傘
 ::kase2::稼
 ::kashiko1::賢
 
