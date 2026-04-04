@@ -1,6 +1,6 @@
 #Hotstring CO
 #Hotstring EndChars `n `t
-
+<^+0::Suspend -1
 >!+a::Send, {U+0100}
 >!a::Send, {U+0101}
 >!+e::Send, {U+0112}
@@ -1933,10 +1933,9 @@
 
 ::NI1::二
 ::NI2::仁
-::NI3::日
-::NI4::尼
-::NI5::弐
-::NI6::児
+::NI3::尼
+::NI4::弐
+::NI5::児
 
 ::NIKU1::肉
 
@@ -3229,7 +3228,6 @@
 ::ima1::今
 ::imo1::芋
 ::imashi1::戒
-::imou1::妹
 ::imouto1::妹
 
 ::iya1::否
@@ -3568,7 +3566,6 @@
 ::kage1::陰
 ::kage2::影
 ::kagaya1::輝
-::kagu1::輝
 ::kagi2::鍵
 ::kagami1::鏡
 ::kago1::籠
@@ -3656,6 +3653,7 @@
 
 ::kuni1::国
 
+::kumi1::組
 ::kumo1::雲
 ::kuma1::熊
 ::kumo2::曇
@@ -4971,9 +4969,4 @@
 
 ::beni1::紅
 
-::peiji1::頁
-
-; User definitions
-
-::ETSU0::曰
-::ETSU01::粤
+::peeji1::頁
