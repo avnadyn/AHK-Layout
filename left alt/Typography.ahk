@@ -57,6 +57,7 @@
 <!|::Send, {U+00A6}
 <!\::Send, {U+00AC}
 <!a::Send, {U+03B1}
+<!+a::Send, {U+00C5}
 <!s::Send, {U+00A7}
 <!+s::Send, {U+03A3}
 <^<!s::Send, {U+03C3}
