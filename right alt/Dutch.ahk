@@ -18,6 +18,8 @@
 >!d::Send, {U+00EB}
 >!+i::Send, {U+00CD}
 >!i::Send, {U+00ED}
+>!+j::Send, {U+00CF}
+>!j::Send, {U+00EF}
 >!+o::Send, {U+00D3}
 >!o::Send, {U+00F3}
 >!+k::Send, {U+00D6}
