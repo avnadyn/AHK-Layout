@@ -1,4 +1,4 @@
-﻿#Hotstring O
+#Hotstring O
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 ::ba11::八
