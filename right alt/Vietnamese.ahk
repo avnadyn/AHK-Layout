@@ -351,6 +351,11 @@
 ::uwt5::ựt
 ::uwt4::ữt
 ::uwt3::ửt
+::gia1::giá
+::gia2::già
+::gia3::giả
+::gia4::giã
+::gia5::giạ
 
 ::ai2::ài
 ::ai1::ái
