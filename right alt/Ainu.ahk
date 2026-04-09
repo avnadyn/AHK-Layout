@@ -1,4 +1,4 @@
-﻿#Hotstring CO
+#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 ::y::ィ
