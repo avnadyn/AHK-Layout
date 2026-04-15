@@ -20,3 +20,12 @@
 >!u::Send {U+00FA}
 >!+y::Send {U+00DD}
 >!y::Send {U+00FD}
+
+::'::’
+>!+vkDE::Send, {U+0027}
+>!;::Send, {U+201E}
+>!'::Send, {U+201C}
+>!+;::Send, {U+201A}
+>!+'::Send, {U+2018}
+>!,::Send, {U+2018}
+>!.::Send, {U+2019}
