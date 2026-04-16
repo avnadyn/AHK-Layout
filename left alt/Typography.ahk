@@ -25,6 +25,9 @@
 <!+9::Send, {U+2089}
 <!-::Send, {U+2013}
 <!_::Send, {U+2014}
+<!=::Send, {U+00B1}
+<!+::Send, {U+2020}
+<^<!+::Send, {U+2021}
 <!q::Send, {U+00BC}
 <!+q::Send, {U+00BE}
 <!w::Send, {U+00BD}
@@ -66,8 +69,6 @@
 <!+d::Send, {U+0394}
 <!f::Send, {U+03C6}
 <!+f::Send, {U+03A6}
-<!=::Send, {U+00B1}
-<!+::Send, {U+2020}
 <!g::Send, {U+03B3}
 <!+g::Send, {U+0393}
 <!h::Send, {U+03B7}
