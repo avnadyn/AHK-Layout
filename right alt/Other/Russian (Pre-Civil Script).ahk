@@ -7,8 +7,8 @@
 ::d::д
 ::e::е
 ::q::ж
->!+q::Send, {U+0405}
->!q::Send, {U+0455}
+>!+z::Send, {U+0405}
+>!z::Send, {U+0455}
 ::z::з
 ::i::и
 >!+i::Send, {U+0406}
@@ -36,20 +36,28 @@
 ::w::ш
 >!+w::Send, {U+0429}
 >!w::Send, {U+0449}
->!+x::Send, {U+042A}
->!x::Send, {U+044A}
-::y::ы
+::y::ъ
+>!+y::Send, {U+042B}
+>!y::Send, {U+044B}
 ::x::ь
->!+e::Send, {U+0462}
->!e::Send, {U+0463}
+>!+3::Send, {U+0462}
+>!3::Send, {U+0463}
+>!+a::Send, {U+A656}
+>!a::Send, {U+A657}
+>!+e::Send, {U+0464}
+>!e::Send, {U+0465}
 >!+u::Send, {U+042E}
 >!u::Send, {U+044E}
->!+a::Send, {U+042F}
->!a::Send, {U+044F}
 >!+p::Send, {U+046A}
 >!p::Send, {U+046B}
->!+z::Send, {U+046E}
->!z::Send, {U+046F}
+>!+k::Send, {U+046C}
+>!k::Send, {U+046D}
+>!+r::Send, {U+0466}
+>!r::Send, {U+0467}
+>!+d::Send, {U+0468}
+>!d::Send, {U+0469}
+>!+x::Send, {U+046E}
+>!x::Send, {U+046F}
 >!+s::Send, {U+0470}
 >!s::Send, {U+0471}
 >!+f::Send, {U+0472}
