@@ -4205,8 +4205,9 @@ vkBE::Send, {U+3002}
 ::tsuyu1::露
 
 ::tsuri1::弦
+::tsura1::面
 ::tsurugi1::剣
-::tsura1::連
+::tsura2::連
 ::tsuranu1::貫
 ::tsuru1::鶴
 
