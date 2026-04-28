@@ -3475,7 +3475,7 @@ vkBE::Send, {U+3002}
 ::omo2::重
 ::omo3::思
 ::omomu1::赴
-::omo1::面
+::omo4::面
 ::omote1::面
 ::omomuki1::趣
 
