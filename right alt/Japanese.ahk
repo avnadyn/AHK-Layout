@@ -2277,6 +2277,7 @@ vkBE::Send, {U+3002}
 ::MI5::魅
 
 ::MITSU1::密
+::MITSU2::蜜
 
 ::MIN1::民
 ::MIN2::眠
