@@ -4254,7 +4254,7 @@ vkBE::Send, {U+3002}
 ::touge1::峠
 ::tou2::通
 ::touto1::貴
-::too3::遠
+::too1::遠
 
 ::toko1::床
 ::tokoro1::所
