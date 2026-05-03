@@ -34,6 +34,8 @@
 >!u::Send, {U+00FC}
 >!+h::Send, {U+00DB}
 >!h::Send, {U+00FB}
+>!+y::Send, {U+00D9}
+>!y::Send, {U+00F9}
 
 >!4::Send, {U+00A3}
 >!5::Send, {U+20AC}
