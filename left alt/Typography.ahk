@@ -1,6 +1,6 @@
 ﻿#Hotstring O
 #Hotstring EndChars :
-
+<^+-::Suspend -1
 <!`::Send, {U+207B}
 <!+`::Send, {U+207A}
 <!0::Send, {U+2070}
