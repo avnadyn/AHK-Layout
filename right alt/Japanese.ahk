@@ -5040,6 +5040,8 @@ vkBE::Send, {U+3002}
 
 ::peeji1::頁
 
+#Hotstring C0
+
 ::k1::人
 ::k2::言
 ::k3::見
