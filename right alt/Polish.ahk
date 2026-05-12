@@ -14,10 +14,10 @@
 >!o::Send {U+00F3}
 >!+s::Send {U+015A}
 >!s::Send {U+015B}
->!+z::Send {U+0179}
->!z::Send {U+017A}
->!+x::Send {U+017B}
->!x::Send {U+017C}
+>!+z::Send {U+017B}
+>!z::Send {U+017C}
+>!+x::Send {U+0179}
+>!x::Send {U+017A}
 
 ::'::’
 >!+vkDE::Send, {U+0027}
