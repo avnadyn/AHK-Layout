@@ -1,17 +1,17 @@
-﻿#Hotstring *?
+#Hotstring *?
 <^+0::Suspend -1
 >!+a::Send, {U+00C2}
 >!a::Send, {U+00E2}
->!+s::Send, {U+0102}
->!s::Send, {U+0103}
+>!+q::Send, {U+0102}
+>!q::Send, {U+0103}
 >!+d::Send, {U+0110}
 >!d::Send, {U+0111}
 >!+e::Send, {U+00CA}
 >!e::Send, {U+00EA}
->!+o::Send, {U+00D4}
->!o::Send, {U+00F4}
->!+p::Send, {U+01A0}
->!p::Send, {U+01A1}
+>!+o::Send, {U+01A0}
+>!o::Send, {U+01A1}
+>!+p::Send, {U+00D4}
+>!p::Send, {U+00F4}
 >!+u::Send, {U+01AF}
 >!u::Send, {U+01B0}
 
