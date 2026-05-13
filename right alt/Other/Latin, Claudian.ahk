@@ -1,7 +1,7 @@
 ﻿#Hotstring *?C
 <^+0::Suspend -1
->!+u::Send, {U+2C75}
->!u::Send, {U+2C76}
+::J::Ⱶ
+::j::ⱶ
 ::u::v
 ::U::V
 ::v::ⅎ
