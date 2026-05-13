@@ -1,5 +1,5 @@
 ﻿#Hotstring O
-#Hotstring EndChars :
+#Hotstring EndChars;
 <^+-::Suspend -1
 <!`::Send, {U+207B}
 <!+`::Send, {U+207A}
@@ -32,6 +32,7 @@
 <!+q::Send, {U+00BE}
 <!w::Send, {U+00BD}
 <!e::Send, {U+03B5}
+<!+e::Send, {U+218B}
 <!r::Send, {U+00AE}
 <!+r::Send, {U+2117}
 <^<!r::Send, {U+03C1}
@@ -88,6 +89,7 @@
 <!+z::Send, {U+2033}
 <^<!z::Send, {U+03B6}
 <!x::Send, {U+00D7}
+<!+x::Send, {U+218A}
 <^<!x::Send, {U+03C7}
 <^<!+x::Send, {U+03A7}
 <!c::Send, {U+00A9}
