@@ -16,8 +16,8 @@
 >!w::Send, {U+00E8}
 >!+r::Send, {U+00CA}
 >!r::Send, {U+00EA}
->!+i::Send, {U+00CD}
->!i::Send, {U+00ED}
+>!+i::Send, {U+00CF}
+>!i::Send, {U+00EF}
 >!+j::Send, {U+00CE}
 >!j::Send, {U+00EE}
 >!+n::Send, {U+00D1}
