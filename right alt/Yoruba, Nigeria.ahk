@@ -1,4 +1,4 @@
-#Hotstring *?
+﻿#Hotstring *?
 <^+0::Suspend -1
 >!+e::Send, {U+1EB8}
 >!e::Send, {U+1EB9}
