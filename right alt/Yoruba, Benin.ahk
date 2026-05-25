@@ -1,4 +1,4 @@
-#Hotstring *?
+﻿#Hotstring *?
 <^+0::Suspend -1
 >!+e::Send, {U+0190}
 >!e::Send, {U+025B}
@@ -7,3 +7,10 @@
 
 >![::Send, {U+0300}
 >!]::Send, {U+0301}
+
+::'::’
+>!+vkDE::Send, {U+0027}
+>!;::Send, {U+201C}
+>!'::Send, {U+201D}
+>!,::Send, {U+2018}
+>!.::Send, {U+2019}
