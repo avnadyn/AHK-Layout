@@ -1,4 +1,4 @@
-#Hotstring CO
+﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 >!+a::Send, {U+0100}
@@ -945,10 +945,10 @@
 ::NUU::ヌー
 ::NEE::ネー
 ::NOO::ノー
-::NYAA::ナャー
-::NYUU::ナュー
-::NYEE::ナェー
-::NYOO::ナョー
+::NYAA::ニャー
+::NYUU::ニュー
+::NYEE::ニェー
+::NYOO::ニョー
 
 ::HAA::ハー
 ::HII::ヒー
