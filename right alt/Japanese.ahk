@@ -5905,7 +5905,8 @@ vkBE::Send, {U+3002}
 ::yumi1::弓
 ::yume1::夢
 
-::yuru1::緩
+::yuru1::許
+::yuru2::緩
 
 ::yuzu1::譲
 
