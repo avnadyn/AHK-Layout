@@ -74,10 +74,13 @@
 <!+g::Send, {U+0393}
 <!h::Send, {U+03B7}
 <!j::Send, {U+2190}
+<!+j::Send, {U+2260}
 <^<!j::Send, {U+03BE}
 <!k::Send, {U+2193}
+<!+k::Send, {U+2194}
 <^<!k::Send, {U+03BA}
 <!l::Send, {U+2192}
+<!+l::Send, {U+2195}
 <^<!l::Send, {U+03BB}
 <^<!+l::Send, {U+039B}
 <!;::Send, {U+00B7}
