@@ -362,8 +362,8 @@
 >!$::Send, {U+0BF9}
 >!#::Send, {U+0BFA}
 
->!'::Send, {U+0B82}
->!;::Send, {U+0B83}
+>!n::Send, {U+0B82}
+>!h::Send, {U+0B83}
 
 >!0::Send, {U+0BE6}
 >!1::Send, {U+0BE7}

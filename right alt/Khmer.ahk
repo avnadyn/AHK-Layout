@@ -1,6 +1,24 @@
 ﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
+
+>!a::Send {U+17B6}
+>!i::Send {U+17B7}
+>!+i::Send {U+17B8}
+>!w::Send {U+17B9}
+>!+w::Send {U+17BA}
+>!u::Send {U+17BB}
+>!+u::Send {U+17BC}
+>!y::Send {U+17BD}
+>!k::Send {U+17BE}
+>!+y::Send {U+17BF}
+>!+e::Send {U+17C0}
+>!e::Send {U+17C1}
+>!+z::Send {U+17C2}
+>!+j::Send {U+17C3}
+>!o::Send {U+17C4}
+>!+o::Send {U+17C5}
+
 ::Qaq::ឣ
 ::Qaa::ឤ
 ::Qi::ឥ
@@ -703,8 +721,8 @@
 ::Lau::ឡៅ
 ::qau::អៅ
 
->!'::Send, {U+17C6}
->!;::Send, {U+17C7}
+>!n::Send, {U+17C6}
+>!h::Send, {U+17C7}
 >!+;::Send, {U+17C8}
 >!"::Send, {U+17C9}
 >!>::Send, {U+17CA}
@@ -712,8 +730,8 @@
 >!+r::Send, {U+17CC}
 >!-::Send, {U+17CD}
 >!=::Send, {U+17CE}
->!e::Send, {U+17D0}
->!o::Send, {U+17D3}
+::-e::័
+::-o::៓
 
 ::||::៕
 ::|::។
@@ -722,7 +740,7 @@
 ::|l|::៘
 ::**::៙
 ::***::៚
->!r:Send, {U+17DB}
+>!r::Send, {U+17DB}
 ::..::ៜ
 >!(::Send, {U+17DD}
 
