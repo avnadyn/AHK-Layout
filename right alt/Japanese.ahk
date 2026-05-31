@@ -8756,3 +8756,17 @@ vkBE::Send, {U+3002}
 
 ::KI-16::龜
 ::kame-1::龜
+
+::SHI``1::屍
+::shikabane``1::屍
+::kabane``1::屍
+
+::GAN``1::屍
+
+::JI``1::痔
+
+::SHOU``1::妾
+::tekake``1::妾
+::mekake``1::妾
+::ontame``1::妾
+::warawa``1::妾
