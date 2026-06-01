@@ -5293,8 +5293,9 @@ vkBE::Send, {U+3002}
 ::nan1::何
 ::nana3::斜
 
+::nama1::生
 ::nami1::波
-::nama1::怠
+::nama2::怠
 ::namida1::涙
 ::name1::滑
 ::namari1::鉛
