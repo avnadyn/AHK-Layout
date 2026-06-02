@@ -1,4 +1,4 @@
-﻿#Hotstring CO
+#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 >!+a::Send, {U+0100}
@@ -7238,6 +7238,7 @@ vkBE::Send, {U+3002}
 
 ::RITSU-2::笠
 ::RYUU-3::笠
+::kasa-2::笠
 
 ::hazu-1::筈
 
