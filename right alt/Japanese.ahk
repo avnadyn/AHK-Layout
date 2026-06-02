@@ -1,4 +1,4 @@
-#Hotstring CO
+﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 >!+a::Send, {U+0100}
@@ -8759,16 +8759,16 @@ vkBE::Send, {U+3002}
 ::KI-16::龜
 ::kame-1::龜
 
-::SHI``1::屍
-::shikabane``1::屍
-::kabane``1::屍
+::SHI-13::屍
+::shikabane-1::屍
+::kabane-1::屍
 
-::GAN``1::癌
+::GAN-2::癌
 
-::JI``1::痔
+::JI-5::痔
 
-::SHOU``1::妾
-::tekake``1::妾
-::mekake``1::妾
-::ontame``1::妾
-::warawa``1::妾
+::SHOU-28::妾
+::tekake-1::妾
+::mekake-1::妾
+::ontame-1::妾
+::warawa-1::妾
