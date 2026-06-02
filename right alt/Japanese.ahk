@@ -1,4 +1,4 @@
-#Hotstring CO
+﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 >!+a::Send, {U+0100}
@@ -8801,3 +8801,79 @@ vkBE::Send, {U+3002}
 ::ne``1::睨
 
 ::nozo``1::覗
+
+::tsuka``1::掴
+
+::KEI``1::繋
+::tsuna``1::繋
+
+::WAI``1::歪
+::iga``1::歪
+::igatsu``1::歪
+::hizu``1::歪
+::yuga``1::歪
+
+::KYOU``2::怯
+::obi``1::怯
+::hiru``1::怯
+
+::ka``1::噛
+::kaji``1::噛
+
+::DON``1::呑
+::no``1::呑
+
+::na``1::舐
+::name``1::舐
+::ne``1::舐
+::nebu``1::舐
+
+::CHITSU``1::膣
+
+::sasaya``1::囁
+
+::uso``2::噓
+
+::HAKU``1::剥
+::ha``1::剥
+::mu``1::剥
+
+::SOU``1::掻
+::ka``2::掻
+::kaki``1::掻
+
+::CHO``1::躇
+
+::CHUU``1::躊
+::tamera``1::躊
+
+::mo``1::揉
+
+::HEN``1::騙
+::kata``1::騙
+::dama``1::騙
+
+::KEN``1::眩
+::GEN``1::眩
+::ku``1::眩
+::kuru``1::眩
+::habayu``1::眩
+::habu``1::眩
+
+::ibuka``1::訝
+
+::GAKU``1::愕
+::odoro``::愕
+
+::wana``1::罠
+
+::FU``1::俯
+::utsubo``1::俯
+::utsumu``1::俯
+
+::YA``1::爺
+::jii``1::爺
+::jiji``1::爺
+::jijii``1::爺
+
+::ka``2::嚙
