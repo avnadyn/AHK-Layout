@@ -5116,7 +5116,8 @@ vkBE::Send, {U+3002}
 ::chika1::近
 ::chika2::誓
 
-::chichi1::乳
+::chichi1::父
+::chichi2::乳
 
 ::chigi1::契
 ::chiga1::違
