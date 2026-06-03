@@ -8864,6 +8864,7 @@ vkBE::Send, {U+3002}
 ::habayu``1::眩
 ::habu``1::眩
 
+::GEN``2::訝
 ::ibuka``1::訝
 
 ::GAKU``1::愕
