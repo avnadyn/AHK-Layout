@@ -1,4 +1,4 @@
-﻿#Hotstring CO
+#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 >!+a::Send, {U+0100}
@@ -7214,7 +7214,7 @@ vkBE::Send, {U+3002}
 ::KA-8::禾
 
 ::SHIN-4::秦
-::hata-3::秦
+::hata-4::秦
 ::hatashin-1::秦
 
 ::HYOU-3::秤
