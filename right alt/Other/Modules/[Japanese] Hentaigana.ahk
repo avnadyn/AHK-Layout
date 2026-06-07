@@ -1,11 +1,11 @@
 ﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+=::Suspend -1
-::YI::𛄠
+::=I::𛄠
 ::yi::𛀆
-::YE::𛀀
+::=E::𛀀
 ::ye::𛀁
-::WU::𛄢
+::-U::𛄢
 ::wu::𛄟
 
 ::1a::𛀂
