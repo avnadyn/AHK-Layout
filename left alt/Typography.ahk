@@ -1,4 +1,4 @@
-﻿#Hotstring O
+#Hotstring O
 #Hotstring EndChars;
 <^+-::Suspend -1
 <!`::Send, {U+207B}
@@ -74,6 +74,7 @@
 <!g::Send, {U+03B3}
 <!+g::Send, {U+0393}
 <!h::Send, {U+03B7}
+<!+h::Send, {U+2605}
 <!j::Send, {U+2190}
 <!+j::Send, {U+2260}
 <^<!j::Send, {U+03BE}
