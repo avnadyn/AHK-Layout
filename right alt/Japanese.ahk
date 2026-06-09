@@ -12134,22 +12134,3 @@ vkBE::Send, {U+3002}
 ::tomo``2::鞆
 
 ::KEN``13::狷
-
-; user definitions
-
-::EI=1::瓔
-::YOU=1::瓔
-
-::SHOU=1::璋
-
-::SUI=1::萃
-::ZUI=1::萃
-
-::KEI=1::袿
-::uchiki=1::袿
-
-::TOU=1::橙
-::daidai=1::橙
-::chen=1::橙
-
-::RIN=1::霖
