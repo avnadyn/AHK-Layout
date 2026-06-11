@@ -5598,7 +5598,7 @@ vkBE::Send, {U+3002}
 ::hiro2::宏
 ::hiro3::拾
 ::hiru1::昼
-::hira1::開
+::hira2::開
 ::hirugae1::翻
 
 ::higashi1::東
