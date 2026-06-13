@@ -4780,11 +4780,13 @@ vkBE::Send, {U+3002}
 
 ::koi1::恋
 
-::kou1::氷
-::kou2::神
+::kou1::神
 ::koumu1::被
 
 ::koe1::声
+
+::koo1::氷
+::koori1::氷
 
 ::kokono1::九
 ::kokoro1::心
