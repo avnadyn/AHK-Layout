@@ -4227,11 +4227,11 @@ vkBE::Send, {U+3002}
 
 ::ie1::家
 
-::iku0::生
+::iku1::生
 ::ike1::池
 ::ika1::怒
 ::iki1::息
-::iku1::幾
+::iku2::幾
 ::ikio1::勢
 ::ikusa1::戦
 ::ikidou1::憤
