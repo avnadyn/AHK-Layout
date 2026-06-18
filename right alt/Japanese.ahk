@@ -5025,6 +5025,7 @@ vkBE::Send, {U+3002}
 ::su13::澄
 ::su14::擦
 
+::suke0::介
 ::suku1::少
 ::suko1::少
 ::suki1::好
@@ -5144,7 +5145,8 @@ vkBE::Send, {U+3002}
 ::takigi1::薪
 
 ::tasa0::十
-::tasu1::助
+::tasu1::介
+::tasu2::助
 ::tashi1::確
 
 ::tatematsu1::奉
@@ -12592,6 +12594,10 @@ vkBE::Send, {U+3002}
 ::Iri2::射
 ::Iri3::西
 
+::Iru1::一
+::Iru2::入
+::Iru3::日
+
 ::Iro1::彩
 ::Iro2::紅
 
@@ -13234,7 +13240,6 @@ vkBE::Send, {U+3002}
 ::Su10::進
 ::Su11::酢
 ::Su12::首
-
 ::Sui1::氷
 
 ::Sue1::像
@@ -13253,6 +13258,38 @@ vkBE::Send, {U+3002}
 ::Suemoto2::頰
 
 ::Suka1::渚
+
+::Suke1::丞
+::Suke2::伴
+::Suke3::允
+::Suke4::典
+::Suke5::制
+::Suke6::右
+::Suke7::哉
+::Suke8::奨
+::Suke9::奬
+::Suke10::将
+::Suke11::將
+::Suke12::延
+::Suke13::弻
+::Suke14::弼
+::Suke15::扶
+::Suke16::承
+::Suke17::援
+::Suke18::昌
+::Suke19::棚
+::Suke20::涼
+::Suke21::為
+::Suke22::獎
+::Suke23::相
+::Suke24::祐
+::Suke25::翼
+::Suke26::虞
+::Suke27::融
+::Suke28::裕
+::Suke29::資
+::Suke30::輔
+::Suke31::養
 
 ::Susumu1::一
 ::Susumu2::万
@@ -13460,6 +13497,26 @@ vkBE::Send, {U+3002}
 ::Takeshi17::闌
 ::Takeshi18::𮪈
 ::Takeshi19::驍
+
+::Tasuku1::亮
+::Tasuku2::侑
+::Tasuku3::右
+::Tasuku4::奨
+::Tasuku5::奬
+::Tasuku6::将
+::Tasuku7::將
+::Tasuku8::弻
+::Tasuku9::弼
+::Tasuku10::比
+::Tasuku11::獎
+::Tasuku12::相
+::Tasuku13::祐
+::Tasuku14::翼
+::Tasuku15::資
+::Tasuku16::輔
+::Tasuku17::雍
+
+::Tasuke1::輔
 
 ::Tamotsu1::任
 ::Tamotsu2::侠
@@ -13696,6 +13753,8 @@ vkBE::Send, {U+3002}
 ::Te3::豊
 ::Te4::達
 
+::Ten1::一
+
 ::To1::人
 ::To2::仁
 ::To3::任
@@ -13874,6 +13933,10 @@ vkBE::Send, {U+3002}
 
 ::Nama1::給
 
+::Nagi1::柳
+::Nagi2::渚
+::Nagi3::諾
+
 ::Naba1::生
 
 ::Ni1::新
@@ -13902,6 +13965,86 @@ vkBE::Send, {U+3002}
 ::No4::濃
 ::No5::能
 ::No6::農
+
+::Nobu1::一
+::Nobu2::尹
+::Nobu3::亘
+::Nobu4::休
+::Nobu5::伝
+::Nobu6::伸
+::Nobu7::信
+::Nobu8::修
+::Nobu9::備
+::Nobu10::允
+::Nobu11::内
+::Nobu12::円
+::Nobu13::収
+::Nobu14::啓
+::Nobu15::声
+::Nobu16::壽
+::Nobu17::存
+::Nobu18::宣
+::Nobu19::寅
+::Nobu20::寿
+::Nobu21::将
+::Nobu22::將
+::Nobu23::山
+::Nobu24::布
+::Nobu25::常
+::Nobu26::延
+::Nobu27::引
+::Nobu28::応
+::Nobu29::恆
+::Nobu30::恒
+::Nobu31::悦
+::Nobu32::惟
+::Nobu33::惣
+::Nobu34::愃
+::Nobu35::戻
+::Nobu36::房
+::Nobu37::所
+::Nobu38::撰
+::Nobu39::政
+::Nobu40::敷
+::Nobu41::文
+::Nobu42::昶
+::Nobu43::晋
+::Nobu44::業
+::Nobu45::江
+::Nobu46::照
+::Nobu47::献
+::Nobu48::獻
+::Nobu49::發
+::Nobu50::矗
+::Nobu51::禹
+::Nobu52::禾
+::Nobu53::経
+::Nobu54::緩
+::Nobu55::聿
+::Nobu56::肆
+::Nobu57::舒
+::Nobu58::董
+::Nobu69::薫
+::Nobu60::薰
+::Nobu61::訫
+::Nobu62::誠
+::Nobu63::誕
+::Nobu64::說
+::Nobu65::説
+::Nobu66::諄
+::Nobu67::辰
+::Nobu68::述
+::Nobu69::進
+::Nobu70::達
+::Nobu71::遵
+::Nobu72::選
+::Nobu73::重
+::Nobu74::長
+::Nobu75::陳
+::Nobu76::靖
+::Nobu77::順
+::Nobu78::頌
+::Nobu79::養
 
 ::Nobori1::上
 
@@ -14400,6 +14543,9 @@ vkBE::Send, {U+3002}
 ::Ya12::禰
 ::Ya13::草
 
+::Yai1::柳
+::Yai2::焼
+
 ::Yasu1::仁
 ::Yasu2::休
 ::Yasu3::保
@@ -14461,6 +14607,8 @@ vkBE::Send, {U+3002}
 ::Yasu59::靖
 ::Yasu60::養
 ::Yasu61::鳩
+
+::Yana1::柳
 
 ::Yu1::与
 ::Yu2::世
