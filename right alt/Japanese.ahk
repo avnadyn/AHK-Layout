@@ -13013,9 +13013,24 @@ vkBE::Send, {U+3002}
 ::Sai3::紫
 ::Sai4::雜
 
+::Saki1::兄
+::Saki2::前
+::Saki3::割
+::Saki4::咲
+::Saki5::岬
+::Saki6::東
+::Saki7::祖
+::Saki8::祥
+::Saki9::福
+::Saki10::笹
+
 ::Saku1::开
 ::Saku2::開
 ::Saku3::𫔭
+
+::Sasa1::小
+::Sasa2::楽
+::Sasa3::樂
 
 ::Sato1::仁
 ::Sato2::前
@@ -13066,6 +13081,11 @@ vkBE::Send, {U+3002}
 ::Satoshi27::銈
 ::Satoshi28::鋭
 
+::Satori1::喩
+::Satori2::喻
+::Satori3::知
+::Satori4::禅
+
 ::Satoru1::七
 ::Satoru2::了
 ::Satoru3::仏
@@ -13084,6 +13104,9 @@ vkBE::Send, {U+3002}
 ::Satoru16::聖
 ::Satoru17::聡
 ::Satoru18::達
+
+::Sana1::眞
+::Sana2::真
 
 ::Sane1::人
 ::Sane2::信
@@ -13105,8 +13128,29 @@ vkBE::Send, {U+3002}
 
 ::Same1::雨
 
+::Saya1::清
+::Saya2::荚
+::Saya3::莢
+
 ::Sawa1::川
 ::Sawa2::猿
+
+::Saragi1::仏
+
+::Sada1::偵
+::Sada2::制
+::Sada3::奠
+::Sada4::存
+::Sada5::安
+::Sada6::寧
+::Sada7::必
+::Sada8::憲
+::Sada9::成
+::Sada10::為
+::Sada11::禎
+::Sada12::節
+::Sada13::貞
+::Sada14::質
 
 ::Shi1::七
 ::Shi2::信
@@ -13122,6 +13166,11 @@ vkBE::Send, {U+3002}
 ::Shi12::茂
 ::Shi13::蔓
 ::Shi14::酒
+
+::Shiori1::潮
+::Shiori2::紫
+
+::Shiko1::色
 
 ::Shino1::信
 ::Shino2::忍
@@ -13188,6 +13237,23 @@ vkBE::Send, {U+3002}
 
 ::Sui1::氷
 
+::Sue1::像
+::Sue2::君
+::Sue3::宋
+::Sue4::村
+::Sue5::梢
+::Sue6::殿
+::Sue7::秀
+::Sue8::肖
+
+::Suemitsu1::頬
+::Suemitsu2::頰
+
+::Suemoto1::頬
+::Suemoto2::頰
+
+::Suka1::渚
+
 ::Susumu1::一
 ::Susumu2::万
 ::Susumu3::乾
@@ -13228,14 +13294,30 @@ vkBE::Send, {U+3002}
 ::Susumu38::長
 ::Susumu39::陞
 
+::Suga1::廉
+::Suga2::清
+::Suga3::管
+
 ::Sugashi1::清
 
 ::Sugi1::枌
 ::Sugi2::生
 
+::Suguru1::俊
+::Suguru2::傑
+::Suguru3::勝
+::Suguru4::卓
+::Suguru5::精
+::Suguru6::豪
+::Suguru7::逸
+::Suguru8::邁
+
 ::Se1::妹
 ::Se2::清
 ::Se3::雪
+
+::Sei::汐
+::Sei::靖
 
 ::So1::三
 ::So2::生
@@ -13379,6 +13461,20 @@ vkBE::Send, {U+3002}
 ::Takeshi18::𮪈
 ::Takeshi19::驍
 
+::Tamotsu1::任
+::Tamotsu2::侠
+::Tamotsu3::俠
+::Tamotsu4::全
+::Tamotsu5::在
+::Tamotsu6::存
+::Tamotsu7::将
+::Tamotsu8::將
+::Tamotsu9::扶
+::Tamotsu10::有
+::Tamotsu11::綬
+::Tamotsu12::維
+::Tamotsu13::葆
+
 ::Taru1::備
 ::Taru2::垂
 ::Taru3::幹
@@ -13427,6 +13523,42 @@ vkBE::Send, {U+3002}
 ::Tada40::隣
 ::Tada41::齊
 
+::Tadashi1::中
+::Tadashi2::尹
+::Tadashi3::乞
+::Tadashi4::佶
+::Tadashi5::儀
+::Tadashi6::凡
+::Tadashi7::将
+::Tadashi8::將
+::Tadashi9::廉
+::Tadashi10::延
+::Tadashi11::律
+::Tadashi12::忠
+::Tadashi13::悳
+::Tadashi14::憲
+::Tadashi15::政
+::Tadashi16::斉
+::Tadashi17::旦
+::Tadashi18::是
+::Tadashi19::正
+::Tadashi20::理
+::Tadashi21::真
+::Tadashi22::矗
+::Tadashi23::矢
+::Tadashi24::禎
+::Tadashi25::精
+::Tadashi26::紀
+::Tadashi27::肇
+::Tadashi28::董
+::Tadashi29::虔
+::Tadashi30::衷
+::Tadashi31::規
+::Tadashi32::質
+::Tadashi33::迪
+::Tadashi34::雅
+::Tadashi35::齊
+
 ::Chi1::一
 ::Chi2::㐅
 ::Chi3::乳
@@ -13441,6 +13573,45 @@ vkBE::Send, {U+3002}
 ::Chi12::眞
 ::Chi13::祐
 ::Chi14::道
+
+::Chika1::侠
+::Chika2::俠
+::Chika3::允
+::Chika4::内
+::Chika5::凡
+::Chika6::分
+::Chika7::前
+::Chika8::力
+::Chika9::参
+::Chika10::及
+::Chika11::周
+::Chika12::味
+::Chika13::哉
+::Chika14::声
+::Chika15::子
+::Chika16::尋
+::Chika17::恒
+::Chika18::悠
+::Chika19::愛
+::Chika20::愼
+::Chika21::慎
+::Chika22::新
+::Chika23::時
+::Chika24::次
+::Chika25::比
+::Chika26::浮
+::Chika27::爾
+::Chika28::發
+::Chika29::知
+::Chika30::親
+::Chika31::謹
+::Chika32::速
+::Chika33::遵
+::Chika34::邇
+::Chika35::間
+::Chika36::间
+::Chika37::附
+::Chika38::隣
 
 ::Chiru1::生
 
@@ -13458,13 +13629,6 @@ vkBE::Send, {U+3002}
 ::Tsukasa4::知
 ::Tsukasa5::良
 ::Tsukasa6::鞆
-
-::Tsumu1::万
-::Tsumu2::萬
-::Tsumu3::頭
-
-::Tsumoru1::万
-::Tsumoru2::萬
 
 ::Tsuto1::朝
 
@@ -13494,6 +13658,38 @@ vkBE::Send, {U+3002}
 ::Tsutomu::耕
 ::Tsutomu::邁
 ::Tsutomu::釗
+
+::Tsumu1::万
+::Tsumu2::萬
+::Tsumu3::頭
+
+::Tsumoru1::万
+::Tsumoru2::萬
+
+::Tsugu1::二
+::Tsugu2::伝
+::Tsugu3::壬
+::Tsugu4::子
+::Tsugu5::従
+::Tsugu6::承
+::Tsugu7::次
+::Tsugu8::禎
+::Tsugu9::紀
+::Tsugu10::続
+::Tsugu11::緒
+::Tsugu12::續
+::Tsugu13::胤
+::Tsugu14::著
+::Tsugu15::說
+::Tsugu16::説
+::Tsugu17::諭
+::Tsugu18::講
+::Tsugu19::貢
+::Tsugu20::賓
+::Tsugu21::遂
+::Tsugu22::韶
+::Tsugu23::頌
+::Tsugu24::麗
 
 ::Te1::天
 ::Te2::守
@@ -13620,6 +13816,9 @@ vkBE::Send, {U+3002}
 ::Tomo53::類
 ::Tomo54::鵬
 
+::Toyo1::茂
+::Toyo2::豐
+
 ::Na1::七
 ::Na2::今
 ::Na3::𫝆
@@ -13640,6 +13839,28 @@ vkBE::Send, {U+3002}
 ::Na18::穴
 ::Na19::農
 ::Na20::魚
+
+::Nao1::仍
+::Nao2::作
+::Nao3::君
+::Nao4::均
+::Nao5::多
+::Nao6::巨
+::Nao7::忠
+::Nao8::成
+::Nao9::斉
+::Nao10::明
+::Nao11::有
+::Nao12::猶
+::Nao13::真
+::Nao14::矗
+::Nao15::矢
+::Nao16::类
+::Nao17::通
+::Nao18::野
+::Nao19::順
+::Nao20::類
+::Nao21::齊
 
 ::Naka1::半
 ::Naka2::参
@@ -13844,6 +14065,8 @@ vkBE::Send, {U+3002}
 ::Hito6::智
 ::Hito7::民
 ::Hito8::者
+
+::Hime1::妃
 
 ::Hiro1::丈
 ::Hiro2::丑
@@ -14465,6 +14688,36 @@ vkBE::Send, {U+3002}
 ::Yoshi140::麗
 ::Yoshi141::齊
 
+::Yori1::倚
+::Yori2::偉
+::Yori3::備
+::Yori4::和
+::Yori5::因
+::Yori6::尚
+::Yori7::幹
+::Yori8::時
+::Yori9::為
+::Yori10::猶
+::Yori11::率
+::Yori12::異
+::Yori13::穀
+::Yori14::籍
+::Yori15::職
+::Yori16::自
+::Yori17::賀
+::Yori18::資
+::Yori19::賴
+::Yori20::遂
+::Yori21::道
+::Yori22::適
+::Yori23::遵
+::Yori24::選
+::Yori25::附
+::Yori26::随
+::Yori27::順
+::Yori28::頼
+::Yori29::麗
+
 ::Ra1::原
 ::Ra2::柄
 ::Ra3::浦
@@ -14510,6 +14763,11 @@ vkBE::Send, {U+3002}
 
 ::Zu1::津
 ::Zu2::鶴
+
+::Zei1::城
+::Zei2::泉
+::Zei3::稅
+::Zei4::税
 
 ::Jo1::生
 
