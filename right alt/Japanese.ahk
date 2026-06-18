@@ -4343,8 +4343,8 @@ vkBE::Send, {U+3002}
 ::usu2::薄
 
 ::utsu0::空
-::utsuo0::空
-::utsubo0::空
+::utsuo1::空
+::utsubo1::空
 ::utsu1::写
 ::utsu2::映
 ::utsuku1::美
@@ -4418,23 +4418,24 @@ vkBE::Send, {U+3002}
 ::ebi1::鰕
 
 ::o1::小
-::o2::尾
-::o3::折
-::o4::押
-::o5::負
-::o6::追
-::o7::起
-::o8::降
-::o9::悪
-::o10::惜
-::o11::推
-::o12::終
-::o13::御
-::o14::落
-::o15::雄
-::o16::置
-::o17::緒
-::o18::織
+::o2::生
+::o3::尾
+::o4::折
+::o5::押
+::o6::負
+::o7::追
+::o8::起
+::o9::降
+::o10::悪
+::o11::惜
+::o12::推
+::o13::終
+::o14::御
+::o15::落
+::o16::雄
+::o17::置
+::o18::緒
+::o19::織
 
 ::oi1::甥
 
@@ -12444,10 +12445,58 @@ vkBE::Send, {U+3002}
 ::Akira100::飾
 ::Akira101::麗
 
+::Ake1::南
+::Ake2::旦
+::Ake3::明
+::Ake4::暁
+::Ake5::曉
+::Ake6::曙
+::Ake7::緋
+::Ake8::陽
+
+::Ako1::赤
+
 ::Asa1::旦
 ::Asa2::晁
 ::Asa3::生
 ::Asa4::麻
+
+::Atsu1::中
+::Atsu2::京
+::Atsu3::同
+::Atsu4::喧
+::Atsu5::団
+::Atsu6::徳
+::Atsu7::昌
+::Atsu8::春
+::Atsu9::暑
+::Atsu10::暖
+::Atsu11::熱
+::Atsu12::石
+::Atsu13::竺
+::Atsu14::純
+::Atsu15::諄
+::Atsu16::豊
+::Atsu17::適
+::Atsu18::配
+::Atsu19::酷
+::Atsu20::重
+::Atsu21::阜
+
+::Atsushi1::俶
+::Atsushi2::厖
+::Atsushi3::懿
+::Atsushi4::敦
+::Atsushi5::晃
+::Atsushi6::穠
+::Atsushi7::竺
+::Atsushi8::純
+::Atsushi9::腆
+::Atsushi10::重
+::Atsushi11::阜
+::Atsushi12::饒
+
+::Ami1::浴
 
 ::Aya1::彧
 ::Aya2::彩
@@ -12524,6 +12573,25 @@ vkBE::Send, {U+3002}
 
 ::Ike1::生
 
+::Ito1::文
+::Ito2::純
+
+::Isamu1::侠
+::Isamu2::俠
+::Isamu3::偉
+::Isamu4::制
+::Isamu5::力
+::Isamu6::勇
+::Isamu7::浩
+::Isamu8::男
+::Isamu9::諫
+::Isamu10::赳
+::Isamu11::鐃
+
+::Iri1::入
+::Iri2::射
+::Iri3::西
+
 ::Iro1::彩
 ::Iro2::紅
 
@@ -12553,6 +12621,8 @@ vkBE::Send, {U+3002}
 ::E'11::負
 ::E'12::重
 ::E'13::頴
+
+::Ebara1::茨
 
 ::O'1::㐆
 ::O'2::力
@@ -12586,6 +12656,45 @@ vkBE::Send, {U+3002}
 ::Oi3::種
 ::Oi4::老
 ::Oi5::負
+
+::Oki1::云
+::Oki2::住
+::Oki3::宋
+::Oki4::往
+::Oki5::御
+::Oki6::意
+::Oki7::發
+::Oki8::起
+::Oki9::隆
+::Oki10::順
+::Oki11::𩒊
+
+::Osamu1::一
+::Osamu2::乃
+::Osamu3::尹
+::Osamu4::乿
+::Osamu5::制
+::Osamu6::収
+::Osamu7::宰
+::Osamu8::平
+::Osamu9::弻
+::Osamu10::弼
+::Osamu11::律
+::Osamu12::惣
+::Osamu13::成
+::Osamu14::理
+::Osamu15::磨
+::Osamu16::稅
+::Osamu17::税
+::Osamu18::紀
+::Osamu19::納
+::Osamu20::経
+::Osamu21::耕
+::Osamu22::藴
+::Osamu23::蘊
+::Osamu24::道
+::Osamu25::靖
+::Osamu26::順
 
 ::Ka1::一
 ::Ka2::三
@@ -12655,6 +12764,11 @@ vkBE::Send, {U+3002}
 
 ::Kan1::上
 
+::Kana1::愛
+::Kana2::秦
+::Kana3::銀
+::Kana4::門
+
 ::Kane1::包
 ::Kane2::厳
 ::Kane3::周
@@ -12676,6 +12790,9 @@ vkBE::Send, {U+3002}
 
 ::Kaya1::榧
 ::Kaya2::草
+
+::Kawa1::頬
+::Kawa2::頰
 
 ::Kazu1::一
 ::Kazu2::万
@@ -12763,6 +12880,32 @@ vkBE::Send, {U+3002}
 ::Kiyo::養
 ::Kiyo::齊
 
+::Kiyoshi1::圭
+::Kiyoshi2::廉
+::Kiyoshi3::忠
+::Kiyoshi4::明
+::Kiyoshi5::晧
+::Kiyoshi6::晴
+::Kiyoshi7::泓
+::Kiyoshi8::泠
+::Kiyoshi9::洌
+::Kiyoshi10::浩
+::Kiyoshi11::淏
+::Kiyoshi12::清
+::Kiyoshi13::渙
+::Kiyoshi14::湜
+::Kiyoshi15::澈
+::Kiyoshi16::瀏
+::Kiyoshi17::瀞
+::Kiyoshi18::白
+::Kiyoshi19::皎
+::Kiyoshi20::皖
+::Kiyoshi21::粲
+::Kiyoshi22::精
+::Kiyoshi23::純
+::Kiyoshi24::聖
+::Kiyoshi25::靖
+
 ::Ku1::仁
 ::Ku2::六
 ::Ku3::幾
@@ -12823,6 +12966,30 @@ vkBE::Send, {U+3002}
 ::Kou9::穹
 ::Kou10::郷
 
+::Kokoro1::志
+::Kokoro2::椛
+::Kokoro3::魂
+
+::Koto1::允
+::Koto2::承
+::Koto3::政
+::Koto4::服
+::Koto5::異
+::Koto6::紀
+::Koto7::肇
+::Koto8::說
+::Koto9::説
+::Koto10::采
+
+::Kore1::云
+::Kore2::兄
+::Kore3::右
+::Kore4::是
+::Kore5::時
+::Kore6::比
+::Kore7::玆
+::Kore8::穴
+
 ::Sa1::三
 ::Sa2::㐅
 ::Sa3::五
@@ -12840,6 +13007,11 @@ vkBE::Send, {U+3002}
 ::Sa15::道
 ::Sa16::酒
 ::Sa17::里
+
+::Sai1::三
+::Sai2::惣
+::Sai3::紫
+::Sai4::雜
 
 ::Saku1::开
 ::Saku2::開
@@ -12894,7 +13066,47 @@ vkBE::Send, {U+3002}
 ::Satoshi27::銈
 ::Satoshi28::鋭
 
+::Satoru1::七
+::Satoru2::了
+::Satoru3::仏
+::Satoru4::佛
+::Satoru5::侠
+::Satoru6::俠
+::Satoru7::勘
+::Satoru8::悊
+::Satoru9::惺
+::Satoru10::慧
+::Satoru11::昤
+::Satoru12::智
+::Satoru13::暁
+::Satoru14::理
+::Satoru15::知
+::Satoru16::聖
+::Satoru17::聡
+::Satoru18::達
+
+::Sane1::人
+::Sane2::信
+::Sane3::允
+::Sane4::城
+::Sane5::子
+::Sane6::孫
+::Sane7::尚
+::Sane8::平
+::Sane9::心
+::Sane10::情
+::Sane11::猶
+::Sane12::眞
+::Sane13::真
+::Sane14::誠
+::Sane15::諄
+::Sane16::重
+::Sane17::銑
+
 ::Same1::雨
+
+::Sawa1::川
+::Sawa2::猿
 
 ::Shi1::七
 ::Shi2::信
@@ -12916,6 +13128,8 @@ vkBE::Send, {U+3002}
 ::Shino3::東
 ::Shino4::神
 ::Shino5::笹
+
+::Shiro1::城
 
 ::Shige1::乗
 ::Shige2::兄
@@ -12956,6 +13170,8 @@ vkBE::Send, {U+3002}
 ::Shige37::隆
 ::Shige38::順
 ::Shige39::頻
+
+::Shigei1::茂
 
 ::Su1::代
 ::Su2::寸
@@ -13011,6 +13227,8 @@ vkBE::Send, {U+3002}
 ::Susumu37::邁
 ::Susumu38::長
 ::Susumu39::陞
+
+::Sugashi1::清
 
 ::Sugi1::枌
 ::Sugi2::生
@@ -13088,6 +13306,58 @@ vkBE::Send, {U+3002}
 ::Taka51::髙
 ::Taka52::髜
 ::Taka53::鳳
+
+::Takashi1::任
+::Takashi2::俊
+::Takashi3::傑
+::Takashi4::兀
+::Takashi5::劭
+::Takashi6::卓
+::Takashi7::大
+::Takashi8::天
+::Takashi9::孝
+::Takashi10::尊
+::Takashi11::尚
+::Takashi12::尭
+::Takashi13::山
+::Takashi14::屹
+::Takashi15::岑
+::Takashi16::峰
+::Takashi17::崔
+::Takashi18::崟
+::Takashi19::崧
+::Takashi20::𡸳
+::Takashi21::嵩
+::Takashi22::嶐
+::Takashi23::嶢
+::Takashi24::巍
+::Takashi25::巐
+::Takashi26::幹
+::Takashi27::律
+::Takashi28::恭
+::Takashi29::敞
+::Takashi30::敬
+::Takashi31::敲
+::Takashi32::昴
+::Takashi33::杲
+::Takashi34::皐
+::Takashi35::穹
+::Takashi36::節
+::Takashi37::綏
+::Takashi38::聖
+::Takashi39::艮
+::Takashi40::虔
+::Takashi41::襄
+::Takashi42::誠
+::Takashi43::貴
+::Takashi44::郁
+::Takashi45::陟
+::Takashi46::隆
+::Takashi47::韶
+::Takashi48::饒
+::Takashi49::髜
+::Takashi50::髞
+::Takashi51::魏
 
 ::Takeshi1::乾
 ::Takeshi2::佶
@@ -13197,6 +13467,33 @@ vkBE::Send, {U+3002}
 ::Tsumoru2::萬
 
 ::Tsuto1::朝
+
+::Tsutomu::乾
+::Tsutomu::仂
+::Tsutomu::伝
+::Tsutomu::剣
+::Tsutomu::劍
+::Tsutomu::力
+::Tsutomu::努
+::Tsutomu::劭
+::Tsutomu::勉
+::Tsutomu::勤
+::Tsutomu::奨
+::Tsutomu::奬
+::Tsutomu::孟
+::Tsutomu::彊
+::Tsutomu::忞
+::Tsutomu::恪
+::Tsutomu::懋
+::Tsutomu::拳
+::Tsutomu::敏
+::Tsutomu::敦
+::Tsutomu::勗
+::Tsutomu::獎
+::Tsutomu::精
+::Tsutomu::耕
+::Tsutomu::邁
+::Tsutomu::釗
 
 ::Te1::天
 ::Te2::守
@@ -13354,9 +13651,9 @@ vkBE::Send, {U+3002}
 ::Naka8::班
 ::Naka9::髄
 
-::Nama::給
+::Nama1::給
 
-::Naba::生
+::Naba1::生
 
 ::Ni1::新
 ::Ni2::日
@@ -13490,8 +13787,8 @@ vkBE::Send, {U+3002}
 ::Ha7::華
 ::Ha8::萩
 
-::Hata::果
-::Hata::漢
+::Hata1::果
+::Hata2::漢
 
 ::Haru1::令
 ::Haru2::全
@@ -13526,6 +13823,8 @@ vkBE::Send, {U+3002}
 ::Haru31::𫔭
 ::Haru32::陽
 ::Haru33::青
+
+::Haza1::硲
 
 ::Hi1::一
 ::Hi2::啓
@@ -13623,6 +13922,9 @@ vkBE::Send, {U+3002}
 ::Furu1::両
 ::Furu2::降
 ::Furu3::雨
+
+::Fuji1::葛
+::Fuji1::藤
 
 ::He1::戶
 ::He2::戸
@@ -13761,7 +14063,9 @@ vkBE::Send, {U+3002}
 
 ::Miwa1::神
 
-::Mu::陸
+::Mu1::陸
+
+::Muragi1::連
 
 ::Me1::㐅
 ::Me2::五
@@ -13949,6 +14253,58 @@ vkBE::Send, {U+3002}
 
 ::Yukari1::因
 ::Yukari2::紫
+
+::Yuki::世
+::Yuki::之
+::Yuki::介
+::Yuki::來
+::Yuki::侑
+::Yuki::偏
+::Yuki::勤
+::Yuki::千
+::Yuki::如
+::Yuki::ゆ
+::Yuki::将
+::Yuki::將
+::Yuki::幸
+::Yuki::廉
+::Yuki::往
+::Yuki::徳
+::Yuki::志
+::Yuki::恭
+::Yuki::政
+::Yuki::敏
+::Yuki::敬
+::Yuki::文
+::Yuki::是
+::Yuki::時
+::Yuki::晉
+::Yuki::晋
+::Yuki::服
+::Yuki::来
+::Yuki::為
+::Yuki::礼
+::Yuki::祐
+::Yuki::維
+::Yuki::肖
+::Yuki::致
+::Yuki::行
+::Yuki::起
+::Yuki::巡
+::Yuki::透
+::Yuki::通
+::Yuki::進
+::Yuki::遂
+::Yuki::遊
+::Yuki::道
+::Yuki::適
+::Yuki::遵
+::Yuki::門
+::Yuki::随
+::Yuki::雪
+::Yuki::靱
+::Yuki::順
+::Yuki::鵬
 
 ::Yuru1::万
 ::Yuru2::萬
