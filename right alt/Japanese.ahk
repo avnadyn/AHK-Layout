@@ -1523,8 +1523,10 @@ vkBE::Send, {U+3002}
 
 ::U1::右
 ::U2::宇
-::U3::羽
-::U4::雨
+::U3::有
+::U4::羽
+::U5::雨
+::U6::優
 
 ::UTSU1::鬱
 
@@ -1847,10 +1849,11 @@ vkBE::Send, {U+3002}
 
 ::KE1::化
 ::KE2::気
-::KE3::華
-::KE4::家
-::KE5::景
-::KE6::懸
+::KE3::希
+::KE4::華
+::KE5::家
+::KE6::景
+::KE7::懸
 
 ::KEI1::兄
 ::KEI2::刑
@@ -2180,6 +2183,8 @@ vkBE::Send, {U+3002}
 ::SAKU10::酢
 ::SAKU11::搾
 ::SAKU12::錯
+
+::SACHI1::拶
 
 ::SATSU1::冊
 ::SATSU2::札
@@ -3638,6 +3643,7 @@ vkBE::Send, {U+3002}
 ::GE2::牙
 ::GE3::外
 ::GE4::解
+::GE5::華
 
 ::GEI1::芸
 ::GEI2::迎
@@ -3976,14 +3982,15 @@ vkBE::Send, {U+3002}
 ::BA4::罵
 
 ::BAI1::売
-::BAI2::苺
-::BAI3::倍
-::BAI4::梅
-::BAI5::培
-::BAI6::陪
-::BAI7::媒
-::BAI8::買
-::BAI9::賠
+::BAI2::妹
+::BAI3::苺
+::BAI4::倍
+::BAI5::梅
+::BAI6::培
+::BAI7::陪
+::BAI8::媒
+::BAI9::買
+::BAI10::賠
 
 ::BAKU1::麦
 ::BAKU2::博
@@ -4109,6 +4116,8 @@ vkBE::Send, {U+3002}
 
 ::PYOU1::報
 
+::a0::貴
+::a01::彼
 ::a1::上
 ::a2::充
 ::a3::会
@@ -4275,21 +4284,25 @@ vkBE::Send, {U+3002}
 ::ita5::痛
 ::ita6::傷
 ::itsuku1::慈
+::ito2::愛
 
 ::ichi1::市
 ::ichigo1::苺
 ::ichijiru1::著
 
 ::ina0::田
+::ina01::因
 ::inu1::犬
 ::ina1::否
 ::inochi1::命
 ::ino1::祈
 ::ina2::稲
+::ine1::稲
 
 ::ima1::今
 ::imo1::芋
 ::imashi1::戒
+::imo2::妹
 ::imoto1::妹
 ::imouto1::妹
 
@@ -4651,6 +4664,7 @@ vkBE::Send, {U+3002}
 ::kawa7::乾
 ::kawa8::渇
 
+::kagu0::輝
 ::kagi1::限
 ::kage1::陰
 ::kage2::影
@@ -4911,6 +4925,7 @@ vkBE::Send, {U+3002}
 ::sakanobo1::遡
 ::sake3::鮭
 
+::sasaya0::私
 ::sasa1::支
 ::saso1::誘
 
@@ -5208,6 +5223,7 @@ vkBE::Send, {U+3002}
 ::chi3::乳
 ::chi4::風
 ::chi5::散
+::chi6::路
 
 ::chikara1::力
 ::chika1::近
@@ -5396,6 +5412,9 @@ vkBE::Send, {U+3002}
 ::nasa1::情
 ::nashi1::梨
 
+::nata0::方
+::nata01::女
+::nata02::男
 ::natsu1::夏
 ::natsu2::懐
 
@@ -5837,6 +5856,7 @@ vkBE::Send, {U+3002}
 
 ::maru0::〇
 ::maru1::丸
+::mare1::希
 
 ::mawa1::回
 ::mawa2::周
@@ -5956,10 +5976,11 @@ vkBE::Send, {U+3002}
 
 ::mo1::若
 ::mo2::持
-::mo3::喪
-::mo4::漏
-::mo5::燃
-::mo6::藻
+::mo3::面
+::mo4::喪
+::mo5::漏
+::mo6::燃
+::mo7::藻
 
 ::mou1::申
 ::mou2::設
@@ -6115,6 +6136,8 @@ vkBE::Send, {U+3002}
 ::ware1::我
 ::wara1::笑
 ::waru1::悪
+::warashi1::童
+::warawa1::童
 ::warabe1::童
 
 ::wazawa1::災
@@ -6126,8 +6149,11 @@ vkBE::Send, {U+3002}
 ::gara1::柄
 ::gake1::崖
 
+::gi0::語
+
 ::ji0::葉
-::ji1::路
+::ji1::面
+::ji2::路
 
 ::za0::六
 
@@ -6162,6 +6188,8 @@ vkBE::Send, {U+3002}
 ::beni1::紅
 
 ::peeji1::頁
+
+::ppa1::童
 
 ::CHUU-1::丑
 ::ushi-1::丑
@@ -6547,6 +6575,7 @@ vkBE::Send, {U+3002}
 
 ::hata-2::幡
 ::wata-1::幡
+::ba-0::幡
 
 ::SHOU-3::庄
 
@@ -10581,6 +10610,7 @@ vkBE::Send, {U+3002}
 
 ::KAKU``5::赫
 ::kagaya``1::赫
+::kagu``0::赫
 
 ::AI``4::隘
 
@@ -12245,6 +12275,10 @@ vkBE::Send, {U+3002}
 
 ::KON``8::艮
 
+::KOU``32::嚮
+
+::SUU``2::趨
+
 ::A'1::厚
 ::A'2::四
 ::A'3::𭑨
@@ -13755,6 +13789,31 @@ vkBE::Send, {U+3002}
 
 ::Ten1::一
 
+::Teru1::侊
+::Teru2::光
+::Teru3::彰
+::Teru4::日
+::Teru5::明
+::Teru6::映
+::Teru7::昭
+::Teru8::晃
+::Teru9::晟
+::Teru10::晧
+::Teru11::晴
+::Teru12::晶
+::Teru13::暁
+::Teru14::曄
+::Teru15::曜
+::Teru16::栄
+::Teru17::焜
+::Teru18::燿
+::Teru19::瑛
+::Teru20::璋
+::Teru21::耀
+::Teru22::耿
+::Teru23::華
+::Teru24::輝
+
 ::To1::人
 ::To2::仁
 ::To3::任
@@ -13878,6 +13937,9 @@ vkBE::Send, {U+3002}
 ::Toyo1::茂
 ::Toyo2::豐
 
+::Tori1::禽
+::Tori2::部
+
 ::Na1::七
 ::Na2::今
 ::Na3::𫝆
@@ -13931,7 +13993,17 @@ vkBE::Send, {U+3002}
 ::Naka8::班
 ::Naka9::髄
 
+::Nata1::向
+
 ::Nama1::給
+
+::Naru1::平
+::Naru2::徳
+::Naru3::愛
+::Naru4::成
+::Naru5::誠
+::Naru6::造
+::Naru7::遂
 
 ::Nagi1::柳
 ::Nagi2::渚
@@ -14154,6 +14226,18 @@ vkBE::Send, {U+3002}
 ::Hata1::果
 ::Hata2::漢
 
+::Hatsu1::八
+::Hatsu2::服
+::Hatsu3::肇
+::Hatsu4::逸
+
+::Hatori1::服
+
+::Hana1::椛
+::Hana2::瑛
+::Hana3::芳
+::Hana4::華
+
 ::Haru1::令
 ::Haru2::全
 ::Haru3::内
@@ -14200,6 +14284,34 @@ vkBE::Send, {U+3002}
 ::Hi8::菊
 ::Hi9::負
 
+::Hisa1::久
+::Hisa2::亀
+::Hisa3::仙
+::Hisa4::向
+::Hisa5::壽
+::Hisa6::契
+::Hisa7::寿
+::Hisa8::尚
+::Hisa9::常
+::Hisa10::引
+::Hisa11::往
+::Hisa12::恆
+::Hisa13::恒
+::Hisa14::悠
+::Hisa15::教
+::Hisa16::敞
+::Hisa17::文
+::Hisa18::栄
+::Hisa19::桐
+::Hisa20::比
+::Hisa21::永
+::Hisa22::淹
+::Hisa23::者
+::Hisa24::藤
+::Hisa25::說
+::Hisa26::説
+::Hisa27::長
+
 ::Hito1::云
 ::Hito2::仁
 ::Hito3::他
@@ -14209,8 +14321,28 @@ vkBE::Send, {U+3002}
 ::Hito7::民
 ::Hito8::者
 
+::Hitoshi1::一
+::Hitoshi2::中
+::Hitoshi3::人
+::Hitoshi4::仁
+::Hitoshi5::儔
+::Hitoshi6::同
+::Hitoshi7::均
+::Hitoshi8::将
+::Hitoshi9::將
+::Hitoshi10::平
+::Hitoshi11::恒
+::Hitoshi12::文
+::Hitoshi13::斉
+::Hitoshi14::斎
+::Hitoshi15::班
+::Hitoshi16::矗
+::Hitoshi17::精
+::Hitoshi18::鈞
+
 ::Hime1::妃
 
+::Hiro0::瑞
 ::Hiro1::丈
 ::Hiro2::丑
 ::Hiro3::𠀋
@@ -14264,7 +14396,7 @@ vkBE::Send, {U+3002}
 ::Hiro51::纊
 ::Hiro52::胖
 ::Hiro53::衆
-::Hiro54::裕
+::Hiro54::
 ::Hiro55::谷
 ::Hiro56::豊
 ::Hiro57::達
@@ -14372,6 +14504,9 @@ vkBE::Send, {U+3002}
 ::Masa50::順
 ::Masa51::齊
 
+::Man1::幡
+::Man2::茨
+
 ::Mamoru1::司
 ::Mamoru2::坤
 ::Mamoru3::守
@@ -14430,6 +14565,12 @@ vkBE::Send, {U+3002}
 ::Miwa1::神
 
 ::Mu1::陸
+
+::Muka1::向
+
+::Mukai1::向
+
+::Muke1::向
 
 ::Muragi1::連
 
