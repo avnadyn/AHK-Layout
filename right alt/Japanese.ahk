@@ -14396,7 +14396,7 @@ vkBE::Send, {U+3002}
 ::Hiro51::纊
 ::Hiro52::胖
 ::Hiro53::衆
-::Hiro54::
+::Hiro54::裕
 ::Hiro55::谷
 ::Hiro56::豊
 ::Hiro57::達
