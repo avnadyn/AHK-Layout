@@ -597,7 +597,7 @@
 ::||::॥              ; Double danda
 ::|::।               ; Danda
 >!n::Send, {U+0902}  ; Anusvara
-::~::ँ               ; Candra bindu
+>!m::Send, {U+0901}  ; Candra bindu
 >!h::Send, {U+0903} ; Visarga
 >!.::Send, {U+093C}  ; Nukta
 ::...::॰             ; Abbreviation sign
