@@ -1,4 +1,4 @@
-#Hotstring O
+﻿#Hotstring O
 #Hotstring EndChars;
 <^+-::Suspend -1
 <!`::Send, {U+207B}
@@ -31,7 +31,6 @@
 <!q::Send, {U+00BC}
 <!+q::Send, {U+00BE}
 <!w::Send, {U+00BD}
-<!+w::Send, {U+2661}
 <!e::Send, {U+03B5}
 <!+e::Send, {U+218B}
 <!r::Send, {U+00AE}
@@ -75,14 +74,15 @@
 <!+g::Send, {U+0393}
 <!h::Send, {U+03B7}
 <!+h::Send, {U+2605}
+<^<!+h::Send, {U+2606}
 <!j::Send, {U+2190}
 <!+j::Send, {U+2260}
 <^<!j::Send, {U+03BE}
 <!k::Send, {U+2193}
-<!+k::Send, {U+2194}
+<!+k::Send, {U+2640}
 <^<!k::Send, {U+03BA}
 <!l::Send, {U+2192}
-<!+l::Send, {U+2195}
+<!+l::Send, {U+2642}
 <^<!l::Send, {U+03BB}
 <^<!+l::Send, {U+039B}
 <!;::Send, {U+00B7}
@@ -105,6 +105,7 @@
 <!+v::Send, {U+03A9}
 <!b::Send, {U+03B2}
 <!+b::Send, {U+2665}
+<^<!+b::Send, {U+2661}
 <!n::Send, {U+2116}
 <!+n::Send, {U+207F}
 <^<!n::Send, {U+03BD}
