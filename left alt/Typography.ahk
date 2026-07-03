@@ -73,8 +73,8 @@
 <!g::Send, {U+03B3}
 <!+g::Send, {U+0393}
 <!h::Send, {U+03B7}
-<!+h::Send, {U+2605}
-<^<!+h::Send, {U+2606}
+<!+h::Send, {U+2606}
+<^<!+h::Send, {U+2605}
 <!j::Send, {U+2190}
 <!+j::Send, {U+2260}
 <^<!j::Send, {U+03BE}
@@ -104,8 +104,8 @@
 <!v::Send, {U+03C9}
 <!+v::Send, {U+03A9}
 <!b::Send, {U+03B2}
-<!+b::Send, {U+2665}
-<^<!+b::Send, {U+2661}
+<!+b::Send, {U+2661}
+<^<!+b::Send, {U+2665}
 <!n::Send, {U+2116}
 <!+n::Send, {U+207F}
 <^<!n::Send, {U+03BD}
