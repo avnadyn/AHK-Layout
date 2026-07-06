@@ -52,8 +52,8 @@
 <!+o::Send, {U+00A4}
 <^<!o::Send, {U+03BF}
 <^<!+o::Send, {U+1D1A9}
-<!p::Send, {U+00B6}
-<!+p::Send, {U+03C0}
+<!p::Send, {U+03C0}
+<!+p::Send, {U+00B6}
 <![::Send, {U+2329}
 <!+[::Send, {U+2669}
 <!]::Send, {U+232A}
@@ -62,8 +62,8 @@
 <!\::Send, {U+00AC}
 <!a::Send, {U+03B1}
 <!+a::Send, {U+00C5}
-<!s::Send, {U+00A7}
-<!+s::Send, {U+03A3}
+<!s::Send, {U+03A3}
+<!+s::Send, {U+00A7}
 <^<!s::Send, {U+03C3}
 <^<!+s::Send, {U+03C2}
 <!d::Send, {U+03B4}
