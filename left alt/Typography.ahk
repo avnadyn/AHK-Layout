@@ -31,6 +31,7 @@
 <!q::Send, {U+00BC}
 <!+q::Send, {U+00BE}
 <!w::Send, {U+00BD}
+<!+w::Send, {U+2016}
 <!e::Send, {U+03B5}
 <!+e::Send, {U+218B}
 <!r::Send, {U+00AE}
