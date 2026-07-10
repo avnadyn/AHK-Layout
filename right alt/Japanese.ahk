@@ -5572,6 +5572,7 @@ vkBE::Send, {U+3002}
 ::uyama1::敬
 
 ::uro0::空
+::ura0::占
 ::urana1::占
 ::ura1::恨
 ::ura2::浦
@@ -6097,6 +6098,8 @@ vkBE::Send, {U+3002}
 
 ::saegi1::遮
 
+::ssao1::青
+
 ::saki1::先
 ::sake1::叫
 ::saka1::坂
@@ -6126,6 +6129,7 @@ vkBE::Send, {U+3002}
 ::sachi1::幸
 
 ::samata1::妨
+::same1::雨
 ::samurai1::侍
 ::samu1::寒
 ::sama1::様
@@ -6193,6 +6197,7 @@ vkBE::Send, {U+3002}
 
 ::shiru1::汁
 ::shiro1::白
+::sshiro1::白
 ::shira1::白
 ::shiri1::尻
 ::shirushi1::印
@@ -7358,6 +7363,8 @@ vkBE::Send, {U+3002}
 
 ::za0::六
 
+::zeni1::銭
+
 ::zero1::〇
 
 ::zu1::漬
@@ -7383,6 +7390,7 @@ vkBE::Send, {U+3002}
 
 ::ba1::化
 ::ba2::場
+::ba3::葉
 
 ::buta1::豚
 
