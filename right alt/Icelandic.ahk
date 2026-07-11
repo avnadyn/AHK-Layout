@@ -1,11 +1,12 @@
-﻿#Hotstring *?
+#Hotstring *?
 <^+0::Suspend -1
+::q::þ
+::w::ð
+
 >!+a::Send {U+00C1}
 >!a::Send {U+00E1}
 >!+z::Send {U+00C6}
 >!z::Send {U+00E6}
->!+d::Send {U+00D0}
->!d::Send {U+00F0}
 >!+e::Send {U+00C9}
 >!e::Send {U+00E9}
 >!+i::Send {U+00CD}
@@ -14,10 +15,12 @@
 >!o::Send {U+00F3}
 >!+k::Send {U+00D6}
 >!k::Send {U+00F6}
->!+t::Send {U+00DE}
->!t::Send {U+00FE}
+>!+c::Send {U+0051}
+>!c::Send {U+0071}
 >!+u::Send {U+00DA}
 >!u::Send {U+00FA}
+>!+v::Send {U+0057}
+>!v::Send {U+0077}
 >!+y::Send {U+00DD}
 >!y::Send {U+00FD}
 
