@@ -1,9 +1,12 @@
 ﻿#Hotstring *?
 <^+0::Suspend -1
->!+e::Send, {U+0190}
->!e::Send, {U+025B}
->!+o::Send, {U+0186}
->!o::Send, {U+0254}
+::c::ɛ
+::q::ɔ
+
+>!+k::Send, {U+0051}
+>!k::Send, {U+0071}
+>!+s::Send, {U+0043}
+>!s::Send, {U+0063}
 
 >![::Send, {U+0300}
 >!]::Send, {U+0301}
