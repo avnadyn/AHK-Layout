@@ -1,4 +1,4 @@
-#Hotstring CO
+﻿#Hotstring CO
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
 ::y::ィ
@@ -9,15 +9,27 @@
 ::w::ゥ
 ::p::ㇷ゚
 
-::'ya::ャ
-::'yu::ュ
-::'yo::ョ
+::ya'::ャ
+::yu'::ュ
+::yo'::ョ
 
 ::a::ア
 ::i::イ
 ::u::ウ
 ::e::エ
 ::o::オ
+
+::ay::アィ
+::iy::イィ
+::uy::ウィ
+::ey::エィ
+::oy::オィ
+
+::aw::アゥ
+::iw::イゥ
+::uw::ウゥ
+::ew::エゥ
+::ow::オゥ
 
 ::un::ㇴ
 
