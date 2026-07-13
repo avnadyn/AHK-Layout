@@ -14,7 +14,6 @@
 >!o::Send {U+00F3}
 >!+k::Send {U+00D8}
 >!k::Send {U+00F8}
-
 >!+u::Send {U+00DA}
 >!u::Send {U+00FA}
 >!+v::Send {U+0057}
@@ -24,9 +23,11 @@
 
 ::'::’
 >!+vkDE::Send, {U+0027}
->!;::Send, {U+201E}
->!'::Send, {U+201C}
->!+;::Send, {U+201A}
->!+'::Send, {U+2018}
->!,::Send, {U+2018}
->!.::Send, {U+2019}
+>!;::Send, {U+00BB}
+>!'::Send, {U+00AB}
+>!+;::Send, {U+203A}
+>!+'::Send, {U+2039}
+>!,::Send, {U+201C}
+>!.::Send, {U+201D}
+>!+,::Send, {U+2018}
+>!+.::Send, {U+2019}
