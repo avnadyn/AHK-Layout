@@ -6880,9 +6880,10 @@ vkBE::Send, {U+3002}
 ::hira1::平
 ::hiro1::広
 ::hiro2::宏
+::hira2::枚
 ::hiro3::拾
 ::hiru1::昼
-::hira2::開
+::hira3::開
 ::hirugae1::翻
 
 ::higashi1::東
