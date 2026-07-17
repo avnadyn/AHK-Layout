@@ -2340,6 +2340,7 @@
 ::GYUN::ギュン
 ::JUN::ジュン
 ::DJUN::ヂュン
+::DYUN::デュン
 ::BYUN::ビュン
 ::PYUN::ピュン
 ::VYUN::ヴュン
@@ -2347,6 +2348,7 @@
 ::KYUUN::キューン
 ::SHUUN::シューン
 ::CHUUN::チューン
+::TYUUN::テューン
 ::NYUUN::ニューン
 ::HYUUN::ヒューン
 ::MYUUN::ミューン
@@ -2354,6 +2356,7 @@
 ::GYUUN::ギューン
 ::JUUN::ジューン
 ::DJUUN::ヂューン
+::DYUUN::デューン
 ::BYUUN::ビューン
 ::PYUUN::ピューン
 ::VYUUN::ヴューン
@@ -2361,6 +2364,7 @@
 ::KYUHN::キュウン
 ::SHUHN::シュウン
 ::CHUHN::チュウン
+::TYUHN::テュウン
 ::NYUHN::ニュウン
 ::HYUHN::ヒュウン
 ::MYUHN::ミュウン
@@ -2368,6 +2372,7 @@
 ::GYUHN::ギュウン
 ::JUHN::ジュウン
 ::DJUHN::ヂュウン
+::DYUHN::デュウン
 ::BYUHN::ビュウン
 ::PYUHN::ピュウン
 ::VYUHN::ヴュウン
@@ -2375,6 +2380,7 @@
 ::KYU-N::キュゥン
 ::SHU-N::シュゥン
 ::CHU-N::チュゥン
+::TYU-N::テュゥン
 ::NYU-N::ニュゥン
 ::HYU-N::ヒュゥン
 ::MYU-N::ミュゥン
@@ -2382,6 +2388,7 @@
 ::GYU-N::ギュゥン
 ::JU-N::ジュゥン
 ::DJU-N::ヂュゥン
+::DYU-N::デュゥン
 ::BYU-N::ビュゥン
 ::PYU-N::ピュゥン
 ::VYU-N::ヴュゥン
@@ -13277,7 +13284,7 @@ vkBE::Send, {U+3002}
 
 ::HAN``7::泛
 
-::senchimehtoru``1::糎
+::senchimeetoru``1::糎
 
 ::SEN``16::跣
 
