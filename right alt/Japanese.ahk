@@ -3276,16 +3276,17 @@ vkBE::Send, {U+3002}
 ::KYOU20::教
 ::KYOU21::経
 ::KYOU22::郷
-::KYOU23::境
-::KYOU24::嬌
-::KYOU25::蕎
-::KYOU26::橋
-::KYOU27::興
-::KYOU28::矯
-::KYOU29::鏡
-::KYOU30::競
-::KYOU31::響
-::KYOU32::驚
+::KYOU23::敬
+::KYOU24::境
+::KYOU25::嬌
+::KYOU26::蕎
+::KYOU27::橋
+::KYOU28::興
+::KYOU29::矯
+::KYOU30::鏡
+::KYOU31::競
+::KYOU32::響
+::KYOU33::驚
 
 ::KYOKU1::旭
 ::KYOKU2::曲
@@ -6264,6 +6265,7 @@ vkBE::Send, {U+3002}
 
 ::sugi1::杉
 ::sugata1::姿
+::sugu1::優
 
 ::suzu1::涼
 ::suzu2::鈴
@@ -7026,6 +7028,7 @@ vkBE::Send, {U+3002}
 
 ::masu1::升
 ::masa1::勝
+::masa2::優
 
 ::mato0::和
 ::mata1::又
@@ -7229,6 +7232,7 @@ vkBE::Send, {U+3002}
 ::yashiro1::社
 ::yasa1::易
 ::yashina1::養
+::yasa2::優
 
 ::yat1::八
 ::yato1::雇
