@@ -15654,6 +15654,31 @@ vkBE::Send, {U+3002}
 
 ::Haza1::硲
 
+::Hajime1::一
+::Hajime2::俶
+::Hajime3::元
+::Hajime4::剏
+::Hajime5::哉
+::Hajime6::啓
+::Hajime7::基
+::Hajime8::大
+::Hajime9::始
+::Hajime10::孟
+::Hajime11::弌
+::Hajime12::新
+::Hajime13::明
+::Hajime14::春
+::Hajime15::曄
+::Hajime16::朝
+::Hajime17::本
+::Hajime18::東
+::Hajime19::源
+::Hajime20::祖
+::Hajime21::祝
+::Hajime22::紀
+::Hajime23::肇
+::Hajime24::造
+
 ::Hi1::一
 ::Hi2::啓
 ::Hi3::常
