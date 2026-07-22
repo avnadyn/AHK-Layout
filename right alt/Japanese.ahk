@@ -4980,6 +4980,7 @@ vkBE::Send, {U+3002}
 ::JI21::璽
 
 ::JIKI1::直
+::JIKI2::食
 
 ::JIKU1::軸
 
@@ -5415,14 +5416,14 @@ vkBE::Send, {U+3002}
 ::ane1::姉
 
 ::ama0::天
-::ame0::天
+::ame1::天
 ::ama1::尼
 ::ama2::甘
 ::ama3::余
-::ame1::雨
+::ame2::雨
 ::ama4::雨
 ::ami1::網
-::ame2::飴
+::ame3::飴
 
 ::aya0::文
 ::aya1::妖
@@ -5640,6 +5641,7 @@ vkBE::Send, {U+3002}
 ::uba1::奪
 
 ::e0::上
+::e01::海
 ::e1::江
 ::e2::笑
 ::e2::得
@@ -5871,6 +5873,7 @@ vkBE::Send, {U+3002}
 ::kame2::亀
 ::kama4::鎌
 
+::kari1::仮
 ::karada1::体
 ::kara1::辛
 ::kare1::彼
@@ -5946,6 +5949,7 @@ vkBE::Send, {U+3002}
 ::kimo1::肝
 
 ::kiyo1::清
+::kiyo2::聖
 
 ::kira1::嫌
 ::kiri1::霧
@@ -6367,7 +6371,8 @@ vkBE::Send, {U+3002}
 ::shake1::鮭
 
 ::ta0::十
-::ta01::日
+::ta01::手
+::ta02::日
 ::ta1::手
 ::ta2::田
 ::ta3::立
@@ -6934,6 +6939,7 @@ vkBE::Send, {U+3002}
 ::hiza1::膝
 
 ::hiji1::肘
+::hijiri1::聖
 
 ::hidari1::左
 
@@ -6991,6 +6997,7 @@ vkBE::Send, {U+3002}
 ::fude1::筆
 
 ::he0::上
+::he01::下
 ::he1::戸
 ::he2::経
 ::he3::部
@@ -7126,6 +7133,7 @@ vkBE::Send, {U+3002}
 ::mi6::満
 ::mi7::診
 
+::mikoto1::命
 ::mikotonori1::詔
 ::miki1::幹
 
@@ -7437,6 +7445,8 @@ vkBE::Send, {U+3002}
 ::ba1::化
 ::ba2::場
 ::ba3::葉
+
+::bi0::老
 
 ::buta1::豚
 
@@ -8797,7 +8807,7 @@ vkBE::Send, {U+3002}
 ::abara-1::肋
 ::bara-1::肋
 
-::na-2::肴
+::na-5::肴
 ::sakana-1::肴
 
 ::IN-3::胤
@@ -8979,7 +8989,7 @@ vkBE::Send, {U+3002}
 ::kabu-1::蕪
 ::kabura-1::蕪
 
-::na-3::薙
+::na-6::薙
 
 ::RAI-3::蕾
 ::tsubomi-1::蕾
@@ -9270,7 +9280,7 @@ vkBE::Send, {U+3002}
 ::kao-1::馨
 
 ::JUN-7::馴
-::na-4::馴
+::na-7::馴
 
 ::CHI-3::馳
 ::ha-2::馳
@@ -14153,36 +14163,36 @@ vkBE::Send, {U+3002}
 ::Ki12::次
 ::Ki13::行
 
-::Kii::給
+::Kii1::給
 
-::Kiyo::人
-::Kiyo::圭
-::Kiyo::廉
-::Kiyo::心
-::Kiyo::恭
-::Kiyo::摩
-::Kiyo::政
-::Kiyo::斉
-::Kiyo::斎
-::Kiyo::氷
-::Kiyo::洋
-::Kiyo::洌
-::Kiyo::清
-::Kiyo::玉
-::Kiyo::白
-::Kiyo::皖
-::Kiyo::研
-::Kiyo::硏
-::Kiyo::磨
-::Kiyo::神
-::Kiyo::精
-::Kiyo::聖
-::Kiyo::誠
-::Kiyo::貴
-::Kiyo::雪
-::Kiyo::青
-::Kiyo::養
-::Kiyo::齊
+::Kiyo1::人
+::Kiyo2::圭
+::Kiyo3::廉
+::Kiyo4::心
+::Kiyo5::恭
+::Kiyo6::摩
+::Kiyo7::政
+::Kiyo8::斉
+::Kiyo9::斎
+::Kiyo10::氷
+::Kiyo11::洋
+::Kiyo12::洌
+::Kiyo13::清
+::Kiyo14::玉
+::Kiyo15::白
+::Kiyo16::皖
+::Kiyo17::研
+::Kiyo18::硏
+::Kiyo19::磨
+::Kiyo20::神
+::Kiyo21::精
+::Kiyo22::聖
+::Kiyo23::誠
+::Kiyo24::貴
+::Kiyo25::雪
+::Kiyo26::青
+::Kiyo27::養
+::Kiyo28::齊
 
 ::Kiyoshi1::圭
 ::Kiyoshi2::廉
