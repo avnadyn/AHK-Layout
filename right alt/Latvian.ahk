@@ -20,7 +20,7 @@
 >!o::Send, {U+014D}
 >!+r::Send, {U+0156}
 >!r::Send, {U+0157}
->!+s::Send, {U+0157}
+>!+s::Send, {U+0160}
 >!s::Send, {U+0161}
 >!+u::Send, {U+016A}
 >!u::Send, {U+016B}
