@@ -5837,9 +5837,9 @@ vkBE::Send, {U+3002}
 ::oso2::恐
 ::osa5::納
 ::oshi2::教
-::osku2::遅
+::oso3::遅
 ::osore3::虞
-::oso3::襲
+::oso4::襲
 
 ::oto0::大
 ::otto1::夫
@@ -5922,6 +5922,8 @@ vkBE::Send, {U+3002}
 ::ka24::駆
 ::ka25::賭
 ::ka26::懸
+
+::kaa1::母
 
 ::kai1::貝
 ::kaiko1::蚕
@@ -7094,8 +7096,9 @@ vkBE::Send, {U+3002}
 ::fusa2::塞
 
 ::futa1::二
+::futo1::人
 ::futa2::双
-::futo1::太
+::futo2::太
 ::futa3::蓋
 ::futokoro1::懐
 
@@ -7368,7 +7371,8 @@ vkBE::Send, {U+3002}
 ::moto3::本
 ::moto4::求
 ::moteaso1::弄
-::moto5::基
+::moto5::素
+::moto6::基
 ::motto1::最
 
 ::mochi1::用
@@ -14002,12 +14006,6 @@ vkBE::Send, {U+3002}
 
 ::Ike1::生
 
-::Ita1::分
-::Ita2::潮
-
-::Ito1::文
-::Ito2::純
-
 ::Isamu1::侠
 ::Isamu2::俠
 ::Isamu3::偉
@@ -14019,6 +14017,14 @@ vkBE::Send, {U+3002}
 ::Isamu9::諫
 ::Isamu10::赳
 ::Isamu11::鐃
+
+::Ita1::分
+::Ita2::潮
+
+::Ito1::文
+::Ito2::純
+
+::Inui1::乾
 
 ::Iri1::入
 ::Iri2::射
