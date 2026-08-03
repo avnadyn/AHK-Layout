@@ -59,7 +59,7 @@
 >!+a::Send, {U+042F}
 >!a::Send, {U+044F}
 
->!5::Send, {U+20BD}
+>!5::Send, {U+20B8}
 
 >!;::Send, {U+00AB}
 >!'::Send, {U+00BB}
