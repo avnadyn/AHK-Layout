@@ -460,8 +460,6 @@
 
 ::=::{U+200C}
 
->!$::Send, {U+20B9}
-
 ::||::॥              ; Double danda
 ::|::।               ; Danda
 >!n::Send, {U+0902}  ; Anusvara
