@@ -45,6 +45,8 @@
 >!+a::Send, {U+042F}
 >!a::Send, {U+044F}
 
+>!4::Send, {U+20AE}
+
 >!;::Send, {U+00AB}
 >!'::Send, {U+00BB}
 >!+;::Send, {U+201E}
