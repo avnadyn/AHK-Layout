@@ -31,10 +31,12 @@
 >!+y::Send, {U+00DC}
 >!y::Send, {U+00FC}
 
+>!1::Send, {U+20B5}
 >!2::Send, {U+20A6}
 >!3::Send, {U+20B9}
 >!4::Send, {U+00A3}
 >!5::Send, {U+20AC}
+>!6::Send, {U+20B1}
 
 ::'::’
 >!+vkDE::Send, {U+0027}
