@@ -9,6 +9,8 @@
 >!+y::Send, {U+01B3}
 >!y::Send, {U+01B4}
 
+>!4::Send, {U+20A6}
+
 ::'::ʼ
 >!+vkDE::Send, {U+0027}
 >!;::Send, {U+201C}
