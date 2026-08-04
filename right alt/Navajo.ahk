@@ -1,0 +1,35 @@
+﻿#Hotstring *?
+<^+0::Suspend -1
+>!+a::Send, {U+00C1}
+>!a::Send, {U+00E1}
+>!+z::Send, {U+0104}
+>!z::Send, {U+0105}
+>!+q::Send, {U+0104}{U+0301}
+>!q::Send, {U+0105}{U+0301}
+>!+e::Send, {U+00C9}
+>!e::Send, {U+00E9}
+>!+d::Send, {U+0118}
+>!d::Send, {U+0119}
+>!+r::Send, {U+0118}{U+0301}
+>!r::Send, {U+0119}{U+0301}
+>!+i::Send, {U+00CD}
+>!i::Send, {U+00ED}
+>!+j::Send, {U+012E}
+>!j::Send, {U+012F}
+>!+9::Send, {U+012E}{U+0301}
+>!9::Send, {U+012F}{U+0301}
+>!+l::Send, {U+0141}
+>!l::Send, {U+0142}
+>!+o::Send, {U+00D3}
+>!o::Send, {U+00F3}
+>!+k::Send, {U+01EA}
+>!k::Send, {U+01EB}
+>!+p::Send, {U+01EA}{U+0301}
+>!p::Send, {U+01EB}{U+0301}
+
+::'::ʼ
+>!+vkDE::Send, {U+0027}
+>!;::Send, {U+201C}
+>!'::Send, {U+201D}
+>!,::Send, {U+2018}
+>!.::Send, {U+2019}
