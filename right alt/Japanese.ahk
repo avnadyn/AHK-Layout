@@ -6801,6 +6801,7 @@ vkBE::Send, {U+3002}
 ::nami1::並
 ::nami2::波
 ::nama2::怠
+::nami3::涙
 ::namida1::涙
 ::name1::滑
 ::namari1::鉛
