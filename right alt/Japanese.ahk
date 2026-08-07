@@ -5991,6 +5991,7 @@ vkBE::Send, {U+3002}
 
 ::kami1::上
 ::kami2::神
+::kamu1::神
 ::kama1::釜
 ::kami3::紙
 ::kaminari1::雷
@@ -13682,6 +13683,9 @@ vkBE::Send, {U+3002}
 ::SUU``2::趨
 
 ::DEN``3::篆
+
+::TAI``5::颱
+::taifuu``1::颱
 
 ::A'1::厚
 ::A'2::四
