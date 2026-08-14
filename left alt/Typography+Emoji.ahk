@@ -1664,7 +1664,7 @@
 
 :::fem::‍♀️
 :::masc::‍♂️
-:::pride::🏳️‍🌈
+:::lgbt::🏳️‍🌈
 
 :::rofl::🤣
 :::liar::🤥
@@ -2034,6 +2034,8 @@
 :::dizzyface::😵‍💫
 :::loves::‍❤️‍💋‍
 :::compatible::‍❤️‍
+:::fireheart::❤️‍🔥
+:::mendingheart::❤️‍🩹
 
 :::melting::🫠
 :::shock::🫢
