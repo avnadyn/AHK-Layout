@@ -2046,9 +2046,9 @@
 :::handleft::🫲
 :::handdown::🫳
 :::handup::🫴
-:::snap::🫰
+:::fingerheart::🫰
 :::you::🫵
-:::hearthands::🫶
+:::handheart::🫶
 :::shaker::‍🫲
 :::bitinglip::🫦
 :::royal::🫅
