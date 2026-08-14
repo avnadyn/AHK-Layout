@@ -190,8 +190,8 @@
 :::waving::👋
 :::hand::✋
 :::okay::👌
-:::peace::✌️
-:::peacegesture::✌
+:::peacesign::✌️
+:::peacesignsy::✌
 :::pointleft::👈
 :::pointright::👉
 :::pointup::👆
