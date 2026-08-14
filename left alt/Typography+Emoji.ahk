@@ -1031,7 +1031,7 @@
 :::info::ℹ️
 :::m::Ⓜ️
 :::circlem::Ⓜ
-:::ngbutton::🆖
+:C::NG::🆖
 :::sos::🆘
 :::kin::🈲
 :::kabutton::🉑
