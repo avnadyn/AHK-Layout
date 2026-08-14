@@ -1361,7 +1361,7 @@
 :::robot::🤖
 :::palm::🖐️
 :::palmsy::🖐
-:::hornsgesture::🤘
+:::hornsign::🤘
 :::middlefinger::🖕
 :::handwriting::✍️
 :::handwritingsy::✍
@@ -1675,7 +1675,7 @@
 :::clown::🤡
 :::backofhand::🤚
 :::fingerscrossed::🤞
-:::callgesture::🤙
+:::callsign::🤙
 :::leftfist::🤛
 :::rightfist::🤜
 :::holdingphone::🤳
@@ -1966,7 +1966,7 @@
 
 :::happytear::🥲
 :::disguise::🥸
-:::pinchgesture::🤌
+:::che::🤌
 :::anatomicalheart::🫀
 :::lungs::🫁
 :::ninja::🥷
@@ -2048,7 +2048,7 @@
 :::handup::🫴
 :::snap::🫰
 :::you::🫵
-:::heartgesture::🫶
+:::hearthands::🫶
 :::shaker::‍🫲
 :::bitinglip::🫦
 :::royal::🫅
