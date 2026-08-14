@@ -487,7 +487,7 @@
 :::dvd::📀
 :::moviecamera::🎥
 :::clapper::🎬
-:::tv::📺
+:::crt::📺
 :::camera::📷
 :::vhs::📼
 :::magnify::🔍
@@ -2051,7 +2051,7 @@
 :::heartgesture::🫶
 :::shaker::‍🫲
 :::bitinglip::🫦
-:::monarch::🫅
+:::royal::🫅
 :::mpregnant::🫃
 :::xpregnant::🫄
 :::troll::🧌
@@ -2123,5 +2123,5 @@
 :::orca::🫍
 :::landslide::🛘
 :::trombone::🪊
-:::chest::🪎
+:::treasure::🪎
 :::fighting::🫯
