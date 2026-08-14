@@ -1071,6 +1071,7 @@
 :::sleeping::😴
 :::confused::😕
 :::worried::😟
+:::surprise::😮
 :::gasp::😯
 :::scared::😦
 :::shocked::😧
