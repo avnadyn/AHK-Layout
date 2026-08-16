@@ -1001,8 +1001,10 @@
 :::plus::➕
 :::minus::➖
 :::divide::➗
-:::bangbang::
-:::bangint::
+:::bangbang::‼️
+:::bangbangsy::‼
+:::bangint::⁉️
+:::bangintsy::⁉
 :::waveydash::〰️
 :::waveydashsy::〰
 :::dollarsign::💲
