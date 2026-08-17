@@ -1585,11 +1585,11 @@
 :::oldkey::🗝️
 :::oldkeysy::🗝
 :::pick::⛏️
-:::pick::⛏
-:::hammerpick::⚒️
-:::hammerpicksy::⚒
-:::hammerwrench::🛠️
-:::hammerwrench::🛠
+:::picksy::⛏
+:::forgery::⚒️
+:::forgerysy::⚒
+:::tools::🛠️
+:::toolssy::🛠
 :::dagger::🗡️
 :::daggersy::🗡
 :::swords::⚔️
