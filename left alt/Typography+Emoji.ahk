@@ -1038,8 +1038,8 @@
 :C::KIN::🈲
 :C::KAbutton::🉑
 :C::KA::🉑️
-:::gou::🈴︎
-:::goubutton::🈴
+:C::GOU::🈴︎
+:C::GOUbutton::🈴
 :::bluecircle::🔵
 :::blackcircle::⚫
 :::whitecircle::⚪
