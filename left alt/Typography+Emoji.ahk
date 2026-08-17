@@ -1035,9 +1035,9 @@
 :::circlem::Ⓜ
 :C::NG::🆖
 :::sos::🆘
-:::kin::🈲
-:::kabutton::🉑
-:::ka::🉑️
+:C::KIN::🈲
+:C::KAbutton::🉑
+:C::KA::🉑️
 :::gou::🈴︎
 :::goubutton::🈴
 :::bluecircle::🔵
