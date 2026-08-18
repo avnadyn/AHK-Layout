@@ -1003,7 +1003,7 @@
 :::dim::🔅
 :::bright::🔆
 :::multiply::✖️
-:::multiplysign::✖
+:::multiplysy::✖
 :::plus::➕
 :::minus::➖
 :::divide::➗
