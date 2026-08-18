@@ -306,7 +306,8 @@
 :::rainbow::🌈
 :::closedumbrella::🌂
 :::umbrellarain::☔
-:::bolt::⚡
+:::bolt::⚡️
+:::boltsy::⚡
 :::snowman::⛄
 :::fire::🔥
 :::water::🌊
@@ -1038,10 +1039,11 @@
 :C::NG::🆖
 :::sos::🆘
 :C::KIN::🈲
-:C::KAsy::🉑
-:C::KA::🉑️
-:C::GOU::🈴︎
-:C::GOUsy::🈴
+:C::KINsy::🈲︎
+:C::KA::🉑
+:C::KAsy::🉑️
+:C::GOUsy::🈴︎
+:C::GOU::🈴
 :::bluecircle::🔵
 :::blackcircle::⚫
 :::whitecircle::⚪
