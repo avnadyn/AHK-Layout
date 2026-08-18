@@ -1041,7 +1041,7 @@
 :C::KIN::🈲
 :C::KINsy::🈲︎
 :C::KA::🉑
-:C::KAsy::🉑️
+:C::KAsy::🉑︎
 :C::GOUsy::🈴︎
 :C::GOU::🈴
 :::bluecircle::🔵
