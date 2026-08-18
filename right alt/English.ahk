@@ -6,8 +6,8 @@
 >!s::Send, {U+00E2}
 >!+z::Send, {U+00C6}
 >!z::Send, {U+00E6}
->!+q::Send, {U+00C4}
->!q::Send, {U+00E4}
+>!+x::Send, {U+00C3}
+>!x::Send, {U+00E3}
 >!+c::Send, {U+00C7}
 >!c::Send, {U+00E7}
 >!+e::Send, {U+00C9}
@@ -22,6 +22,8 @@
 >!i::Send, {U+00EF}
 >!+j::Send, {U+00CE}
 >!j::Send, {U+00EE}
+>!+9::Send, {U+00CD}
+>!9::Send, {U+00ED}
 >!+n::Send, {U+00D1}
 >!n::Send, {U+00F1}
 >!+o::Send, {U+00D4}
