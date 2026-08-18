@@ -1023,7 +1023,7 @@
 :::check::✔️
 :::checksy::✔
 :::mark::❎
-:::cross::❎
+:C::X::❎
 :::loop::➰
 :::sparkle::❇️
 :::sparklesy::❇
