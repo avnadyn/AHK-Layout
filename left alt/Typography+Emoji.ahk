@@ -148,6 +148,9 @@
 <!vk6F::Send, {U+00F7}
 <!+vk6F::Send, {U+221A}
 
+:::smb::︎
+:::emj::️
+
 :::grin::😃
 :::happy::😄
 :::beaming::😁
