@@ -2043,7 +2043,7 @@
 :::dizzyface::😵‍💫
 :::loves::‍❤️‍💋‍
 :::compatible::‍❤️‍
-:::fireheart::❤️‍🔥
+:::burningheart::❤️‍🔥
 :::mendingheart::❤️‍🩹
 
 :::melting::🫠
