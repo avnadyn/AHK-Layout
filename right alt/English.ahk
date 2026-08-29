@@ -8,6 +8,8 @@
 >!z::Send, {U+00E6}
 >!+x::Send, {U+00C3}
 >!x::Send, {U+00E3}
+>!+q::Send, {U+00C4}
+>!q::Send, {U+00E4}
 >!+c::Send, {U+00C7}
 >!c::Send, {U+00E7}
 >!+e::Send, {U+00C9}
