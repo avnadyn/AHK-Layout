@@ -6242,7 +6242,6 @@ vkBE::Send, {U+3002}
 ::koto4::異
 ::koto5::琴
 ::koto6::答
-::kotowaza1::
 
 ::kono1::好
 ::kona1::粉
