@@ -32,8 +32,8 @@
 ::v::வ்
 ::lx::ழ்
 ::L::ள்
-::rx::ற்
-::nx::ன்
+::rr::ற்
+::nn::ன்
 ::j::ஜ்
 ::sh::ஶ்
 ::S::ஷ்
@@ -56,8 +56,8 @@
 ::va::வ
 ::lxa::ழ
 ::La::ள
-::rxa::ற
-::nxa::ன
+::rra::ற
+::nna::ன
 ::ja::ஜ
 ::sha::ஶ
 ::Sa::ஷ
@@ -80,8 +80,8 @@
 ::vaa::வா
 ::lxaa::ழா
 ::Laa::ளா
-::rxaa::றா
-::nxaa::னா
+::rraa::றா
+::nnaa::னா
 ::jaa::ஜா
 ::shaa::ஶா
 ::Saa::ஷா
@@ -104,8 +104,8 @@
 ::vi::வி
 ::lxi::ழி
 ::Li::ளி
-::rxi::றி
-::nxi::னி
+::rri::றி
+::nni::னி
 ::ji::ஜி
 ::shi::ஶி
 ::Si::ஷி
@@ -128,8 +128,8 @@
 ::vii::வீ
 ::lxii::ழீ
 ::Lii::ளீ
-::rxii::றீ
-::nxii::னீ
+::rrii::றீ
+::nnii::னீ
 ::jii::ஜீ
 ::shii::ஶீ
 ::Sii::ஷீ
@@ -152,8 +152,8 @@
 ::vu::வு
 ::lxu::ழு
 ::Lu::ளு
-::rxu::று
-::nxu::னு
+::rru::று
+::nnu::னு
 ::ju::ஜு
 ::shu::ஶு
 ::Su::ஷு
@@ -176,8 +176,8 @@
 ::vuu::வூ
 ::lxuu::ழூ
 ::Luu::ளூ
-::rxuu::றூ
-::nxuu::னூ
+::rruu::றூ
+::nnuu::னூ
 ::juu::ஜூ
 ::shuu::ஶூ
 ::Suu::ஷூ
@@ -200,8 +200,8 @@
 ::ve::வெ
 ::lxe::ழெ
 ::Le::ளெ
-::rxe::றெ
-::nxe::னெ
+::rre::றெ
+::nne::னெ
 ::je::ஜெ
 ::she::ஶெ
 ::Se::ஷெ
@@ -224,8 +224,8 @@
 ::vee::வே
 ::lxee::ழே
 ::Lee::ளே
-::rxee::றே
-::nxee::னே
+::rree::றே
+::nnee::னே
 ::jee::ஜே
 ::shee::ஶே
 ::See::ஷே
@@ -248,8 +248,8 @@
 ::vai::வை
 ::lxai::ழை
 ::Lai::ளை
-::rxai::றை
-::nxai::னை
+::rrai::றை
+::nnai::னை
 ::jai::ஜை
 ::shai::ஶை
 ::Sai::ஷை
@@ -272,8 +272,8 @@
 ::vo::வொ
 ::lxo::ழொ
 ::Lo::ளொ
-::rxo::றொ
-::nxo::னொ
+::rro::றொ
+::nno::னொ
 ::jo::ஜொ
 ::sho::ஶொ
 ::So::ஷொ
@@ -296,8 +296,8 @@
 ::voo::வோ
 ::lxoo::ழோ
 ::Loo::ளோ
-::rxoo::றோ
-::nxoo::னோ
+::rroo::றோ
+::nnoo::னோ
 ::joo::ஜோ
 ::shoo::ஶோ
 ::Soo::ஷோ
@@ -320,8 +320,8 @@
 ::vau::வௌ
 ::lxau::ழௌ
 ::Lau::ளௌ
-::rxau::றௌ
-::nxau::னௌ
+::rrau::றௌ
+::nnau::னௌ
 ::jau::ஜௌ
 ::shau::ஶௌ
 ::Sau::ஷௌ
@@ -344,8 +344,8 @@
 ::vauu::வௗ
 ::lxauu::ழௗ
 ::Lauu::ளௗ
-::rxauu::றௗ
-::nxauu::னௗ
+::rrauu::றௗ
+::nnauu::னௗ
 ::jauu::ஜௗ
 ::shauu::ஶௗ
 ::Sauu::ஷௗ
@@ -355,9 +355,9 @@
 ::naaL::௳
 ::maatam::௴
 ::varuTam::௴
-::parxrxu::௶
+::parrrru::௶
 ::varavu::௷
-::meerxpaTi::௸
+::meerrpaTi::௸
 
 >!$::Send, {U+0BF9}
 >!#::Send, {U+0BFA}
