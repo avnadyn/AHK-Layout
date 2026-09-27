@@ -6897,6 +6897,19 @@
 
 ::shang51::裳
 
+::sheng11::生
+::sheng12::聲
+::sheng13::勝
+::sheng14::升
+::sheng15::牲
+::sheng16::甥
+::sheng17::笙
+::sheng18::聲
+::sheng19::陞
+::sheng110::苼
+::sheng111::鼪
+::sheng112::鍟
+
 ::sheng21::繩
 ::sheng22::澠
 ::sheng23::繩
