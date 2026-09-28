@@ -1,6 +1,8 @@
 ﻿#Hotstring O
 #Hotstring EndChars `n `t
 <^+0::Suspend -1
+::--::{Shift}+{Left}{Shift}+{Delete}{Shift}+{Insert}{Shift}+{Insert}
+
 ::ba1::八
 ::ba12::吧
 ::ba13::巴
