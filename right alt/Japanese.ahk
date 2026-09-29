@@ -7883,16 +7883,16 @@ vkBE::Send, {U+3002}
 ::ike1::池
 ::iki-1::粹
 ::iki1::域
-::iki1::気
-::iki2::息
+::iki2::気
+::iki3::息
 ::iki``1::閾
 ::ikidou1::憤
 ::ikio1::勢
 ::iko1::憩
 ::iku-1::郁
 ::iku1::生
-::iku1::育
-::iku2::幾
+::iku2::育
+::iku3::幾
 ::ikusa-1::戰
 ::ikusa1::戦
 ::ima1::今
@@ -13843,5 +13843,3 @@ vkBE::Send, {U+3002}
 ::zui``1::隧
 ::zuku-1::銑
 ::zune``1::臑
-
-::sui=1::萃
