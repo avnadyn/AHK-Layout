@@ -1,13 +1,14 @@
 ﻿#Hotstring *?
 <^+0::Suspend -1
+:C:w::ı
+:C:W::I
+:C:I::İ
 >!+a::Send, {U+00C4}
 >!a::Send, {U+00E4}
 >!+g::Send, {U+011E}
 >!g::Send, {U+011F}
->!+i::Send, {U+0130}
->!i::Send, {U+0131}
->!+j::Send, {U+00CE}
->!j::Send, {U+00EE}
+>!+i::Send, {U+00CE}
+>!i::Send, {U+00EE}
 >!+n::Send, {U+00D1}
 >!n::Send, {U+00F1}
 >!+o::Send, {U+00D6}
