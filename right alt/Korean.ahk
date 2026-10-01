@@ -11325,660 +11325,441 @@
 
 #Hotstring CO
 
-::IL1::一 ; 1.1
-::han1::一
-::hana1::一
-
-::CHIL1::七 ; 2.1
-::ilgop1::七
-
-::GU1::九 ; 2.5
-::ahop1::九
- 
-::I1::二 ; 2.7
-::du1::二
-::dul1::二
-
-::IN1::人 ; 2.9
-::saram1::人
-
-::IP1::入 ; 2.11
-::deul1::入
-
-::PAL1::八 ; 2.12
-::yeodeol::八
-
-::YEOK1::力 ; 2.19
-::RYEOK1::力
-::him1::力
-
-::SIP1::十 ; 2.24
-::yeol1::十
-
-::SAM1::三 ; 3.1
-::set1::三
-
-::SANG1::上 ; 3.1
-::wit1::上
-
-::HA1::下 ; 3.1
-::arae1::下
-
-::CHEON1::千 ; 3.24
-::ilcheon1::千
-
-::GU2::口 ; 3.30
-::ip1::口
-
-::TO1::土 ; 3.32
-::heuk1::土
-
-::SEOK1::夕 ; 3.36
-::jeonyeok1::夕
-
-::DAE1::大 ; 3.37
-::keun1::大
-
-::YEO1::女 ; 3.38
-::NYEO1::女
-::gyejip1::女
-
-::JA1::子 ; 3.39
-::adeul1::子
-
-::CHON1::寸 ; 3.41
-::madi1::寸
-
-::SO1::小 ; 3.42
-::jageul1::小
-
-::SAN1::山 ; 3.46
-::me1::山
-::moe1::山
-
-::CHEON2::川 ; 3.47
-::nae1::川
-
-::GONG1::工 ; 3.48
-::jangin1::工
-
-::BUL1::不 ; 4.1
-::anil1::不
-
-::JUNG1::中 ; 4.2
-::gaunde1::中
-
-::O1::五 ; 4.7
-::dat1::五
-::daseot1::五
-
-::IN2::仁 ; 4.9
-
-::WON1::元 ; 4.10
-::eutteum1::元
-
-::RYUK1::六 ; 4.12
-::YUK1::六
-::yeoseot1::六
-
-::en0::円 ; 4.13
-
-::HWA1::化 ; 4.21
-::doel1::化
-
-::CHEON3::天 ; 4.37 
-::haneul1::天
-
-::JUN1::屯 ; 4.45
-::DUN1::屯
-::eoryeoul1::屯
-::jinchil1::屯
-
-::SU1::手 ; 4.64
-
-::MUN1::文 ; 4.67
-::geurwol1::文
-
-::IL2::日 ; 4.72
-::nal1::日
-
-::WOL1::月 ; 4.74
-::dal1::月
-
-::MOK1::木 ; 4.75
-::namu1::木
-
-::JI1::止 ; 4.77
-::geuchil1::止
-
-::SU2::水 ; 4.85
-::mul1::水
-
-::HWA2::火 ; 4.86
-::bul1::火
-
-::BU1::父 ; 4.88
 ::abi1::父
-
-::GYEON1::犬 ; 4.92
-::gae1::犬
-
-::WANG1::王 ; 4.96
-::imgeum1::王
-
-::SE1::世 ; 5.1
-::ingan1::世
-
-::DAE2::代 ; 5.9
-::daesinhal1::代
-::sedae1::代
-
-::HYEONG1::兄 ; 5.10
-::hyeong1::兄
-
-::SEOK2::石 ; 5.12
-::dol1::石
-
-::CHUL1::出 ; 5.17
-::nal2::出
-
-::BUK1::北 ; 5.21
+::achim1::朝
+::achin1::旦
+::adeul1::子
+::ae1::愛
+::ahop1::九
+::ak1::樂
+::al1::知
+::an1::安
+::anil1::不
+::ap1::前
+::arae1::下
+::areumdaul1::美
+::aroel1::白
+::au1::弟
+::bada1::海
+::baek1::白
+::baek2::百
+::baekseong1::民
+::baeul1::学
+::baeul2::學
+::bakkat1::外
+::bal1::足
+::bang1::方
+::bap1::食
+::baram1::風
+::bareul1::正
+::batduduk1::町
+::beol1::閥
+::beolle1::虫
+::beongae1::電
+::bi1::雨
+::bil1::空
+::bit1::色
+::bol1::見
+::bon1::本
+::bu1::父
+::bu2::釜
+::buk1::北
+::bul1::不
+::bul2::火
 ::bungnyeok1::北
-
-::GU3::句 ; 5.30
+::byeol1::別
+::byeong1::兵
+::byeot1::陽
+::cha1::車
+::cha2::茶
+::cha3::茶
+::cheon1::千
+::cheon2::川
+::cheon3::天 
+::cheon4::泉
+::cheong1::靑
+::chil1::七
+::chon1::寸
+::chul1::出
+::chung1::虫
+::dae1::大
+::dae2::代
+::dae3::對
+::daegwol1::宮
+::daehal1::對
+::daesinhal1::代
+::dal1::月
+::dan1::旦
+::dan2::單
+::dang1::堂
+::danil1::行
+::dareul1::別
+::daseot1::五
+::daseuril1::理
+::dat1::五
+::deul1::入
+::deunggeup1::級
+::do1::都
+::do2::道
+::doel1::化
+::doeup1::都
+::dol1::石
+::dong1::同
+::dong2::東
+::dong3::動
+::dongnyeok1::東
+::du1::二
+::du2::頭
+::dul1::二
+::dun2::屯
+::dunggeul1::圓
+::en1::円
+::eo1::語
+::eomi1::母
+::eon1::言
+::eondeok1::原
+::eopseul1::無
+::eoryeoul1::屯
+::eum1::音
+::eun1::銀
+::eutteum1::元
+::ga1::可
+::ga2::家
+::gae1::個
+::gae2::犬
+::gama1::釜
+::gan1::間
+::ganeun1::糸
+::gang1::江
+::garaanjeul1::沒
+::gareuchil1::敎
+::gareuchil1::訓
+::gatchul1::具
+::gateul1::如
+::gaunde1::中
+::geuchil1::止
+::geuk1::可
 ::geulgwi1::句
-
-::GA1::可 ; 5.30
-::GEUK1::可
-::oreul1::可
-::orangkae1::可
-
-::GO1::古 ; 5.30
-::yet1::古
-
-::SA1::四 ; 5.31
+::geulja1::字
+::geum1::金
+::geunwon1::原
+::geup1::級
+::geurim1::画
+::geurim1::畵
+::geurwol1::文
+::gi1::氣
+::gi2::記
+::gil1::長
+::gil2::道
+::gim1::金
+::girokhalgi1::記
+::giun1::氣
+::go1::古
+::go2::故
+::go3::高
+::goeul1::州
+::gogi1::肉
+::gol1::骨
+::gong1::工
+::gong1::空
+::goreul1::均
+::goul1::鮮
+::goul2::麗
+::gu1::九
+::gu2::口
+::gu3::句
+::gu4::具
+::guk1::國
+::gun1::軍
+::gung1::宮
+::gung2::國
+::gunsa1::兵
+::gunsa1::軍
+::gureum1::雲
+::gwang1::狂
+::gwisin1::神
+::gye1::計
+::gyejip1::女
+::gyeol1::訣
+::gyeon1::犬
+::gyeon2::見
+::gyeong1::京
+::gyo1::校
+::gyo2::敎
+::gyun1::均
+::ha1::下
+::hae1::年
+::hae1::海
+::haeng1::行
+::hak1::学
+::hak2::學
+::hakgyo1::校
+::han1::一
+::han1::限
+::han2::漢
+::han3::韓
+::hana1::一
+::haneul1::天
+::hangaji::同
+::hanguk1::韓
+::hannara1::漢
+::hap1::合
+::haphal1::合
+::harabeoji1::祖
+::heuk1::土
+::heuk2::壤
+::him1::力
+::hoe1::會
+::hol1::單
+::hollo1::獨
+::hun1::訓
+::hwa1::化
+::hwa2::火
+::hwa3::画
+::hwa4::花
+::hwa5::畵
+::hwa6::話
+::hwal1::活
+::hwe1::虫
+::hyeong1::兄
+::hyi1::喜
+::hyin1::白
+::hyu1::休
+::i1::二
+::i2::里
+::i3::理
+::il1::一
+::il2::日
+::il3::逸
+::ilbaek1::百
+::ilcheon1::千
+::ilgop1::七
+::ilman1::萬
+::imgeum1::王
+::in1::人
+::in2::仁
+::ingan1::世
+::ip1::入
+::ip1::口
+::ireul1::失
+::ireum1::名
+::ireum1::韓
+::itdaeul1::連
+::ja1::子
+::ja2::字
+::ja3::自
+::jae1::財
+::jaemul1::財
+::jageul1::小
+::jang1::長
+::jang2::場
+::jangin1::工
+::jari1::位
+::je1::弟
+::jeoja1::市
+::jeol1::寺
+::jeon1::全
+::jeon2::前
+::jeon3::電
+::jeong1::正
+::jeong2::定
+::jeonghal1::定
+::jeonyeok1::夕
+::ji1::止
+::ji2::地
+::ji3::知
+::jil1::敗
+::jilpeonhal1::漫
+::jinchil1::屯
+::jip1::室
+::jip2::宮
+::jip3::集
+::jip4::家
+::jip5::堂
+::jo1::祖
+::jo2::朝
+::jogae1::貝
+::jok1::足
+::jong1::終
+::ju1::州
+::jun1::屯
+::jung1::中
+::jung2::衆
+::jyeong1::町
+::keun1::大
+::kkeut1::末
+::kkoch1::花
+::kkotburi1::英
+::machil1::終
+::madang1::場
+::madi1::寸
+::maeul1::辛
+::maeul2::里
+::mal1::末
+::malhal1::話
+::malsseum1::言
+::malsseum1::語
+::man1::萬
+::man2::漫
+::me1::山
+::meonjeo1::先
+::meori1::首
+::meori2::頭
+::mi1::美
+::michil1::狂
+::min1::民
+::mo1::方
+::mo2::母
+::moe1::山
+::moeul1::集
+::moil1::會
+::mok1::木
+::mok2::目
+::mol1::沒
+::mom1::身
+::mot1::淵
+::mu1::無
+::mul1::水
+::mul2::物
+::mulgeon1::品
+::mulgeon2::物
+::mun1::文
+::mun2::門
+::muri1::衆
+::myeok1::糸
+::myeon1::面
+::myeong1::名
+::myeong2::明
+::nae1::川
+::nal1::日
+::nal2::出
+::nal3::生
+::nam1::男
+::nam2::南
+::namnyeok1::南
+::namu1::木
+::nara1::國
+::nara2::韓
+::nat1::面
+::nat2::個
 ::neo1::四
 ::neok1::四
-
-::OE1::外 ; 5.36
-::bakkat1::外
-
-::SIL1::失 ; 5.37
-::ireul1::失
-
-::SI1::市 ; 5.50
-::jeoja1::市
-
-::PYEONG1::平 ; 5.51
-::pyeongpyeonghal1::平
-
-::DAN1::旦 ; 5.72
-::achin1::旦
-
-::BON1::本 ; 5.75
-
-::MAL1::末 ; 5.75
-::kkeut1::末
-
-::JEONG1::正 ; 5.77
-::bareul1::正
-
-::MO1::母 ; 5.80
-::eomi1::母
-
-::MIN1::民 ; 5.83
-::baekseong1::民
-
-::SAENG1::生 ; 5.100
-::nal3::生
-
-::YONG1::用 ; 5.101
-::sseul1::用
-
-::BAEK1::白 ; 5.106
-::hyin1::白
-::aroel1::白
-
-::MOK2::目 ; 5.109
-::nun1::目
-
-::HYU1::休 ; 6.9
-::swil1::休
-
-::SEON1::先 ; 6.10
-::meonjeo1::先
-
-::JEON1::全 ; 6.11
-::onjeonhal1::全
-
-::DONG1::同 ; 6.30
-::hangaji::同
-
-::MYEONG1::名 ; 6.30
-::ireum1::名
-
-::HAP1::合 ; 6.30
-::haphal1::合
-
-::JI2::地 ; 6.32
-::ttang1::地
-
-::YEO2::如 ; 6.38
-::gateul1::如
-
-::JA2::字 ; 6.39
-::geulja1::字
-
-::AN1::安 ; 6.40
-::pyeonan1::安
-
-::SA2::寺 ; 6.41
-::jeol1::寺
-
-::JU1::州 ; 6.47
-::goeul1::州
-
-::NYEON1::年 ; 6.51
-::hae1::年
-
-::GANG1::江 ; 6.85
-::gang1::江
-
-::BAEK1::百 ; 6.106
-::ilbaek1::百
-
-::MYEOK1::糸 ; 6.120
-::sil1::糸
-::ganeun1::糸
-
-::YUK2::肉 ; 6.130
-::gogi1::肉
-
-::SIN1::臣 ; 6.131
-::sinha1::臣
-
-::JA3::自 ; 6.132
-::seuseuro1::自
-
-::SAEK1::色 ; 6.139
-::bit1::色
-
-::CHUNG1::虫 ; 6.142
-::HWE1::虫
-::beolle1::虫
-
-::HAENG1::行 ; 6.144
-::danil1::行
-
-::WI1::位 ; 7.9
-::jari1::位
-
-::BYEONG1::兵 ; 7.12
-::gunsa1::兵
-
-::BYEOL1::別 ; 7.18
-::dareul1::別
-
-::GYUN1::均 ; 7.32
-::goreul1::均
-
-::WAN1::完 ; 7.40
-::wanjeonhal1::完
-
-::JE1::弟 ; 7.57
-::au1::弟
-
-::MOL1::沒 ; 7.85
-::garaanjeul1::沒
-
-::GWANG1::狂 ; 7.94
-::michil1::狂
-
-::NAM1::男 ; 7.102
-::sanae1::男
-
-::JYEONG1::町 ; 7.102
-::batduduk1::町
-
-::GYEON2::見 ; 7.147
-::bol1::見
-
-::EON1::言 ; 7.149
-::malsseum1::言
-
-::PAE1::貝 ; 7.154
-::jogae1::貝
-
-::JOK1::足 ; 7.157
-::bal1::足
-
-::SIN2::身 ; 7.158
-::mom1::身
-
-::CHA1::車 ; 7.159
-::sure1::車
-
-::SIN3::辛 ; 7.160
-::maeul1::辛
-
-::RI1::里 ; 7.166
-::I2::里
-::maeul2::里
-
-::GYEONG1::京 ; 8.8
-::gyeong1::京
-::seoul1::京
-
-::GU4::具 ; 8.12
-::gatchul1::具
-
-::HAK1::学 ; 8.39
-::baeul1::学
-
-::JEONG2::定 ; 8.40
-::jeonghal1::定
-
-::MYEONG2::明 ; 8.72
-
-::DONG2::東 ; 8.75
-::dongnyeok1::東
-
-::MUL1::物 ; 8.93
-::mulgeon1::物
-
-::HWA3::画 ; 8.102
-::geurim1::画
-
-::JI3::知 ; 8.111
-::al1::知
-
-::GONG1::空 ; 8.116
-::bil1::空
-
-::HWA4::花 ; 8.140
-::kkoch1::花
-
-::GEUM1::金 ; 8.167
-::GIM1::金
-::soe1::金
-::seong1::金
-
-::JANG1::長 ; 8.168
-::gil1::長
-
-::MUN2::門 ; 8.169
-::mun1::門
-
-::U1::雨 ; 8.173
-::bi1::雨
-
-::CHEONG1::靑 ; 8.174
-::pureul1::靑
-
-::SIN4::信 ; 9.9
-
-::JEON2::前 ; 9.18
-::ap1::前
-
-::NAM2::南 ; 9.24
-::namnyeok1::南
-
-::PUM1::品 ; 9.30
-::mulgeon1::品
-
-::SIL2::室 ; 9.40
-::jip1::室
-
-::GO2::故 ; 9.60
-::yes1::故
-
-::CHEON4::泉 ; 9.85
-::saem1::泉
-
-::HWAL1::活 ; 9.85
-::sal1::活
-
-::JO1::祖 ; 9.113
-::harabeoji1::祖
-
-::CHA2::茶 ; 9.140
-::cha1::茶
-
-::YEONG1::英 ; 9.140
-::kkotburi1::英
-
-::MI1::美 ; 9.143
-::areumdaul1::美
-
-::GYE1::計 ; 9.149
-::sel1::計
-
-::GUN1::軍 ; 9.159
-::gunsa1::軍
-
-::HAN1::限 ; 9.170
-
-::MYEON1::面 ; 9.176
-::nat1::面
-
-::EUM1::音 ; 9.180
-::sori1::音
-
-::PUNG1::風 ; 9.182
-::baram1::風
-
-::SIK1::食 ; 9.184
-::bap1::食
-
-::SU3::首 ; 9.185
-::meori1::首
-
-::GAE1::個 ; 10.9
-::nat2::個
-
-::GUNG1::宮 ; 10.14
-::jip1::宮
-::daegwol1::宮
-
-::WON2::原 ; 10.27
-::geunwon1::原
-::eondeok1::原
-
-::GA2::家 ; 10.40
-::jip2::家
-
-::SIK2::息 ; 10.61
-::sumswil1::息
-
-::GYO1::校 ; 10.75
-::hakgyo1::校
-
-::GI1::氣 ; 10.84
-::giun1::氣
-
-::HAE1::海 ; 10.85
-::bada1::海
-
-::TEUK1::特 ; 10.93
-::teukbyeolhal1::特
-::sukeot1::特
-
-::SIN5::神 ; 10.113
-::gwisin1::神
-
-::GEUP1::級 ; 10.120
-::deunggeup1::級
-
-::GI2::記 ; 10.149
-::girokhalgi1::記
-
-::HUN1::訓 ; 10.149
-::gareuchil1::訓
-
-::JAE1::財 ; 10.154
-::jaemul1::財
-
-::TONG1::通 ; 10.162
-::tonghal1::通
-
-::RYEON1::連 ; 10.162
-::YEON1::連
-::itdaeul1::連
-
-::BU2::釜 ; 10.167
-::gama1::釜
-
-::GOL1::骨 ; 10.188
-::ppyeo1::骨
-
-::GO3::高 ; 10.189
+::nok1::綠
 ::nopeul1::高
-
-::DONG3::動 ; 11.19
-::umjigil1::動
-
-::YU1::唯 ; 11.30
-
-::GUK1::國 ; 11.31
-::GUNG2::國
-::nara1::國
-
-::DANG1::堂 ; 11.32
-::jip3::堂
-
-::GYO2::敎 ; 11.66
-::gareuchil1::敎
-
-::PAE2::敗 ; 11.66
-::jil1::敗
-
-::YEON2::淵 ; 11.85
-::mot1::淵
-
-::RI2::理 ; 11.96
-::I3::理
-::daseuril1::理
-
-::JONG1::終 ; 11.120
-::machil1::終
-
-::GYEOL1::訣 ; 11.149
-
-::DO1::都 ; 11.163
-::doeup1::都
-
-::DAN2::單 ; 12.30
-::hol1::單
-
-::HYI1::喜 ; 12.30
-
-::JANG2::場 ; 12.32
-::madang1::場
-
-::JO2::朝 ; 12.74
-::achim1::朝
-
-::SAM2::森 ; 12.75
-::sup1::森
-
-::MU1::無 ; 12.86
-::eopseul1::無
-
-::HWA5::畵 ; 12.102
-::geurim1::畵
-
-::SA3::絲 ; 12.120
-
-::JUNG2::衆 ; 12.143
-::muri1::衆
-
-::IL3::逸 ; 12.162
-
-::GAN1::間 ; 12.169
-::sai1::間
-
-::YANG1::陽 ; 12.170
-::byeot1::陽
-
-::JIP1::集 ; 12.172
-::moeul1::集
-
-::UN1::雲 ; 12.173
-::gureum1::雲
-
-::WON3::圓 ; 13.31
-::dunggeul1::圓
-
-::AE1::愛 ; 13.61
-::sarang1::愛
-
-::DO2::道 ; 13.162
-::gil2::道
-
-::SIN6::新 ; 13.169
-::sae1::新
-
-::HOE1::會 ; 13.73
-::moil1::會
-
-::MAN1::萬 ; 13.140
-::ilman1::萬
-
-::HWA6::話 ; 13.149
-::malhal1::話
-
-::JEON3::電 ; 13.173
-::beongae1::電
-
-::DAE3::對 ; 14.41
-::daehal1::對
-
-::BANG1::方 ; 14.70
-::mo1::方
-
-::MAN2::漫 ; 14.85
-::jilpeonhal1::漫
-
-::HAN2::漢 ; 14.85
-::hannara1::漢
-
-::NOK1::綠 ; 14.120
-::ROK1::綠
-::pureul1::綠
-
-::EO1::語 ; 14.149
-::malsseum1::語
-
-::EUN1::銀 ; 14.167
-::eun1::銀
-
-::BEOL1::閥 ; 14.169
-
-::AK1::樂 ; 15.75
 ::norae1::樂
-
-::HAK2::學 ; 16.39
-::baeul2::學
-
-::TOK1::獨 ; 16.94
-::hollo1::獨
-
-::DU1::頭 ; 16.181
-::meori2::頭
-
-::HAN3::韓 ; 17.178
-::hanguk1::韓
-::nara2::韓
-::ireum1::韓
-
-::SEON1::鮮 ; 17.195
-::goul1::鮮
-
-::YAK1::藥 ; 19.140
+::nun1::目
+::nyeo1::女
+::nyeon1::年
+::o1::五
+::oe1::外
+::onjeonhal1::全
+::orangkae1::可
+::oreul1::可
+::pae1::貝
+::pae2::敗
+::pal1::八
+::ppyeo1::骨
+::pum1::品
+::pung1::風
+::pureul1::綠
+::pureul1::靑
+::pyeonan1::安
+::pyeong1::平
+::pyeongpyeonghal1::平
+::ri1::里
+::ri2::理
+::rok1::綠
+::ryeo1::麗
+::ryeok1::力
+::ryeon1::連
+::ryuk1::六
+::sa1::四
+::sa2::寺
+::sa3::絲
+::sae1::新
+::saek1::色
+::saem1::泉
+::saeng1::生
+::sai1::間
+::sal1::活
+::sam1::三
+::sam2::森
+::san1::山
+::sanae1::男
+::sang1::上
+::saram1::人
+::sarang1::愛
+::se1::世
+::sedae1::代
+::sel1::計
+::seok1::夕
+::seok2::石
+::seon1::先
+::seon1::鮮
+::seong1::金
+::seoul1::京
+::set1::三
+::seuseuro1::自
+::si1::市
+::sik1::食
+::sik2::息
+::sil1::失
+::sil1::糸
+::sil2::室
+::sin1::臣
+::sin2::身
+::sin3::辛
+::sin4::信
+::sin5::神
+::sin6::新
+::sinha1::臣
+::sip1::十
+::so1::小
+::soe1::金
+::sori1::音
+::sseul1::用
+::su1::手
+::su2::水
+::su3::首
+::sukeot1::特
+::sumswil1::息
+::sup1::森
+::sure1::車
+::swil1::休
+::teuk1::特
+::teukbyeolhal1::特
+::to1::土
+::tok1::獨
+::tong1::通
+::tonghal1::通
+::ttang1::地
+::u1::雨
+::umjigil1::動
+::un1::雲
+::wan1::完
+::wang1::王
+::wanjeonhal1::完
+::wi1::位
+::wit1::上
+::wol1::月
+::won1::元
+::won2::原
+::won3::圓
 ::yak1::藥
-
-::RYEO1::麗 ; 19.198
-::goul2::麗
-
-::YANG2::壤 ; 20.32
-::heuk2::壤
+::yang1::陽
+::yang2::壤
+::yeo1::女
+::yeo2::如
+::yeodeol::八
+::yeok1::力
+::yeol1::十
+::yeon1::連
+::yeon2::淵
+::yeong1::英
+::yeoseot1::六
+::yes1::故
+::yet1::古
+::yong1::用
+::yu1::唯
+::yuk1::六
+::yuk2::肉
