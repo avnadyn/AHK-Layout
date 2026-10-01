@@ -2136,3 +2136,13 @@
 :::trombone::🪊
 :::treasure::🪎
 :::fighting::🫯
+
+:::crackingface::🫫
+:::thumbsleft::🫹
+:::thumbsright::🫺
+:::monarchbutterfly::🫌
+:::pickle::🫝
+:::lighthouse::🛙
+:::meteor::🪋
+:::eraser::🪌
+:::net::🪍
