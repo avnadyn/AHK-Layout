@@ -12416,6 +12416,7 @@ vkBE::Send, {U+3002}
 ::suku``1::竦
 ::sukui``1::匙
 ::sukuu1::済
+::suma1::争
 ::sumai1::堂
 ::sumaru-1::昴
 ::sumi1::炭
