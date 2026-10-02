@@ -6041,8 +6041,8 @@ vkBE::Send, {U+3002}
 ::ashi-2::葦
 ::ashi-1::芦
 ::ashi0::明
-::ashi1::脚
 ::ashi1::足
+::ashi2::脚
 ::ashi``1::蘆
 ::ashi``2::葭
 ::ashita1::朝
