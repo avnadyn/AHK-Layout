@@ -1,4 +1,4 @@
-#Hotstring *?
+﻿#Hotstring *?
 <^+0::Suspend -1
 ::q::þ
 ::w::ð
